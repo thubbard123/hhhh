@@ -1,0 +1,1608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="HTML5 testing"
+  ProjectFolder="C:\Users\townsends\Documents\!Temp Working\!Flare Testing\HTML5 testing\Template Project TEST\"
+  AutoSync="false"
+  SourceFolders="file:///C:/Users/townsends/Documents/!Temp Working/!Flare Testing/unbound from source control 8.1/Content/Platform Guides"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2015-09-03T10:24:31.9560377-04:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../unbound from source control 8.1/Content/Platform Guides"
+      AbsoluteSource="file:///C:/Users/townsends/Documents/!Temp Working/!Flare Testing/unbound from source control 8.1/Content/Platform Guides" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/AppLevelSingleSignOn.htm"
+      TimeStamp="9/3/2015 10:19:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/Kiosk/Kiosk_Introduction.htm"
+      TimeStamp="9/3/2015 10:19:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SD/Conifig_SDs.htm"
+      TimeStamp="9/3/2015 10:19:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SD/Organize_SDs.htm"
+      TimeStamp="9/3/2015 10:19:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SD/SD_Intro.htm"
+      TimeStamp="9/3/2015 10:19:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SD/Use_SDs.htm"
+      TimeStamp="9/3/2015 10:19:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Accessing.htm"
+      TimeStamp="9/3/2015 10:19:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Actions.htm"
+      TimeStamp="9/3/2015 10:19:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_ActionsMatrix.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Customizing.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Intro.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Outlook_Ad-in.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_SCL_Options.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Shared_AdminNote.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_UsingMyDevices.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/!Shared_Topics/SSP/What's New.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/!Revisions_Andr.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/!Whats New Android.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/AndroidApps.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/Android_Profiles.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/AppsAgentforAndroid.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/AppsAWBforAndroid.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/AppsAWInboxforAndroid.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/AppsAWWorkspaceforAndroid.htm"
+      TimeStamp="9/3/2015 10:19:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/AppsSCLforAndroid.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/AutoEnroll.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/AWCM.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/Before_You_Begin.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/DeviceDetails.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/Download_OEMServiceApp.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/Enroll_Agent.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/Enroll_Android.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/Hub.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/Introduction.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ListViewAndroid.htm"
+      TimeStamp="9/3/2015 10:19:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/Manage_Android.htm"
+      TimeStamp="9/3/2015 10:19:49 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/OEM_Features_Matrix.htm"
+      TimeStamp="9/3/2015 10:19:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileAdvances.htm"
+      TimeStamp="9/3/2015 10:19:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileAppCon.htm"
+      TimeStamp="9/3/2015 10:19:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileBookmarks.htm"
+      TimeStamp="9/3/2015 10:19:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileCred.htm"
+      TimeStamp="9/3/2015 10:19:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileCustom.htm"
+      TimeStamp="9/3/2015 10:19:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileDateTime.htm"
+      TimeStamp="9/3/2015 10:19:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileDisplay.htm"
+      TimeStamp="9/3/2015 10:19:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileEAS.htm"
+      TimeStamp="9/3/2015 10:19:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileEASAWinbox.htm"
+      TimeStamp="9/3/2015 10:19:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileEASLotus.htm"
+      TimeStamp="9/3/2015 10:19:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileEASNative.htm"
+      TimeStamp="9/3/2015 10:19:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileEASNitro.htm"
+      TimeStamp="9/3/2015 10:19:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileEmail.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileFirewall.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileHTTPProxy.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileLockScreen.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfilePasscode.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfilePerAppVPNAnd.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileRestrictions.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileSecureLauncer.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileSound.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileVPN.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileVPNWebsense.htm"
+      TimeStamp="9/3/2015 10:19:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/ProfileWiFi.htm"
+      TimeStamp="9/3/2015 10:19:53 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/Reports.htm"
+      TimeStamp="9/3/2015 10:19:53 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/Sideload.htm"
+      TimeStamp="9/3/2015 10:19:53 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/SSP.htm"
+      TimeStamp="9/3/2015 10:19:53 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android/VPNOnDemandAndroid.htm"
+      TimeStamp="9/3/2015 10:19:53 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/!Revisions_AndrWork.htm"
+      TimeStamp="9/3/2015 10:19:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/!What's New.htm"
+      TimeStamp="9/3/2015 10:19:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AFW _ Profiles.htm"
+      TimeStamp="9/3/2015 10:19:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AFW_BYB.htm"
+      TimeStamp="9/3/2015 10:19:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AFW_Intro.htm"
+      TimeStamp="9/3/2015 10:19:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_App_Control.htm"
+      TimeStamp="9/3/2015 10:19:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_Chrome Brswr Settings.htm"
+      TimeStamp="9/3/2015 10:19:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_Creating Users.htm"
+      TimeStamp="9/3/2015 10:19:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_Credentials.htm"
+      TimeStamp="9/3/2015 10:19:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_EAS.htm"
+      TimeStamp="9/3/2015 10:19:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_Enroll.htm"
+      TimeStamp="9/3/2015 10:19:55 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_EnrollWorkMan.htm"
+      TimeStamp="9/3/2015 10:19:55 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_Features_Matrix.htm"
+      TimeStamp="9/3/2015 10:19:55 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_functionality.htm"
+      TimeStamp="9/3/2015 10:19:55 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_Getting started.htm"
+      TimeStamp="9/3/2015 10:19:55 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_Managing.htm"
+      TimeStamp="9/3/2015 10:19:55 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_ProfilePasscode.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_ProfileVPN.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_ProfPerAppVPNAnd.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_Proxy.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/AW_Restrictions.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Android Work/EnrollWorkProfile.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/!Revisions_AppleTV.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/AppleTVCredentials.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/AppleTVDevDetails.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/AppleTVDevListView.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/AppleTVHub.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/AppleTVReports.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/AppleTVSSP.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/AppleTVWifiProfile.htm"
+      TimeStamp="9/3/2015 10:19:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/Before_You_Begin.htm"
+      TimeStamp="9/3/2015 10:19:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/Config_AppleTV.htm"
+      TimeStamp="9/3/2015 10:19:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/Enroll_AppleTV.htm"
+      TimeStamp="9/3/2015 10:19:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/Introduction.htm"
+      TimeStamp="9/3/2015 10:19:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/AppleTV/Manage_AppleTV.htm"
+      TimeStamp="9/3/2015 10:19:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/!Revisions_BB.htm"
+      TimeStamp="9/3/2015 10:19:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Advanced.htm"
+      TimeStamp="9/3/2015 10:19:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Appx_BES_Config.htm"
+      TimeStamp="9/3/2015 10:19:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/AW_Apps_BB10.htm"
+      TimeStamp="9/3/2015 10:19:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/AW_BES.htm"
+      TimeStamp="9/3/2015 10:19:58 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Before_BB10_Leg.htm"
+      TimeStamp="9/3/2015 10:19:58 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Config_BES.htm"
+      TimeStamp="9/3/2015 10:19:58 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Connect_AW.htm"
+      TimeStamp="9/3/2015 10:19:58 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Connect_BES.htm"
+      TimeStamp="9/3/2015 10:19:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Custom.htm"
+      TimeStamp="9/3/2015 10:20:00 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Device.htm"
+      TimeStamp="9/3/2015 10:20:00 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Enroll_Agent.htm"
+      TimeStamp="9/3/2015 10:20:00 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Enroll_BB10.htm"
+      TimeStamp="9/3/2015 10:20:00 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Enroll_BES.htm"
+      TimeStamp="9/3/2015 10:20:00 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Features Matrix.htm"
+      TimeStamp="9/3/2015 10:20:00 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Integrate_AW.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Integrate_BB10.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Integrate_BES.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Integrate_Req.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Into_BB10_Leg.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Manage_All_BB.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/MEM.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Migration.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Passcode.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Post_enroll.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Profiles_BB10.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Profiles_BES.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/RegDevice.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Secure_Channel.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Staging_BB10.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/Telecom.htm"
+      TimeStamp="9/3/2015 10:20:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/UseAW_BES.htm"
+      TimeStamp="9/3/2015 10:20:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/UseDevDetails.htm"
+      TimeStamp="9/3/2015 10:20:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/UseDevList.htm"
+      TimeStamp="9/3/2015 10:20:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/UseHub.htm"
+      TimeStamp="9/3/2015 10:20:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/UseReports.htm"
+      TimeStamp="9/3/2015 10:20:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/BlackBerry/UseSSP.htm"
+      TimeStamp="9/3/2015 10:20:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/!Revisions_Chrome.htm"
+      TimeStamp="9/3/2015 10:20:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/!What's New Chromebook.htm"
+      TimeStamp="9/3/2015 10:20:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/Chrmbebk_Enroll.htm"
+      TimeStamp="9/3/2015 10:20:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/Chrmebk_Bookmrks.htm"
+      TimeStamp="9/3/2015 10:20:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/Chrmebk_BYB.htm"
+      TimeStamp="9/3/2015 10:20:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/Chrmebk_Devicedetails.htm"
+      TimeStamp="9/3/2015 10:20:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/Chrmebk_HTTProxy.htm"
+      TimeStamp="9/3/2015 10:20:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/Chrmebk_Intro.htm"
+      TimeStamp="9/3/2015 10:20:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/Chrmebk_Managing.htm"
+      TimeStamp="9/3/2015 10:20:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/Chrmebk_Profiles.htm"
+      TimeStamp="9/3/2015 10:20:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/Chrmebk_Restrictions.htm"
+      TimeStamp="9/3/2015 10:20:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Chromebook/Chrmebk_WebRestrictions.htm"
+      TimeStamp="9/3/2015 10:20:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/!Revisions_iOS.htm"
+      TimeStamp="9/3/2015 10:20:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/!WhatsNew.htm"
+      TimeStamp="9/3/2015 10:20:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/Appendix_iOS_Func.htm"
+      TimeStamp="9/3/2015 10:20:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/AppleCareGSX.htm"
+      TimeStamp="9/3/2015 10:20:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/AppsAgentforiOS.htm"
+      TimeStamp="9/3/2015 10:20:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/AppsBrowserforiOS.htm"
+      TimeStamp="9/3/2015 10:20:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/AppsInboxforiOS.htm"
+      TimeStamp="9/3/2015 10:20:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/AppsSCLforiOS.htm"
+      TimeStamp="9/3/2015 10:20:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/AppsWSforiOS.htm"
+      TimeStamp="9/3/2015 10:20:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/AWAppsforiOS.htm"
+      TimeStamp="9/3/2015 10:20:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/Before_You_Begin.htm"
+      TimeStamp="9/3/2015 10:20:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/EnrollCapability.htm"
+      TimeStamp="9/3/2015 10:20:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/EnrollConfigurator.htm"
+      TimeStamp="9/3/2015 10:20:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/EnrollDEP.htm"
+      TimeStamp="9/3/2015 10:20:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/Enrolling_iOS_Devices.htm"
+      TimeStamp="9/3/2015 10:20:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/EnrollSafari.htm"
+      TimeStamp="9/3/2015 10:20:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/Enroll_Agent.htm"
+      TimeStamp="9/3/2015 10:20:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/iBeacon.htm"
+      TimeStamp="9/3/2015 10:20:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/Introduction.htm"
+      TimeStamp="9/3/2015 10:20:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/iOSConfigurator.htm"
+      TimeStamp="9/3/2015 10:20:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/iOS_Profiles.htm"
+      TimeStamp="9/3/2015 10:20:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ManagingiOSActivationLock.htm"
+      TimeStamp="9/3/2015 10:20:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ManagingiOSCustomFonts.htm"
+      TimeStamp="9/3/2015 10:20:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ManagingiOSDevDetails.htm"
+      TimeStamp="9/3/2015 10:20:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ManagingiOSHub.htm"
+      TimeStamp="9/3/2015 10:20:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ManagingiOSListView.htm"
+      TimeStamp="9/3/2015 10:20:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ManagingiOSManagedSttngs.htm"
+      TimeStamp="9/3/2015 10:20:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ManagingiOSReports.htm"
+      TimeStamp="9/3/2015 10:20:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ManagingiOSSSP.htm"
+      TimeStamp="9/3/2015 10:20:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/Managing_iOS_Devices.htm"
+      TimeStamp="9/3/2015 10:20:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/OSUpdates.htm"
+      TimeStamp="9/3/2015 10:20:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileAirPlay.htm"
+      TimeStamp="9/3/2015 10:20:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileAirPrint.htm"
+      TimeStamp="9/3/2015 10:20:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileCalCardDAV.htm"
+      TimeStamp="9/3/2015 10:20:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileCellular.htm"
+      TimeStamp="9/3/2015 10:20:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileCredentials.htm"
+      TimeStamp="9/3/2015 10:20:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileCustomSetts.htm"
+      TimeStamp="9/3/2015 10:20:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileEAS.htm"
+      TimeStamp="9/3/2015 10:20:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileEASAWInbox.htm"
+      TimeStamp="9/3/2015 10:20:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileEASNative.htm"
+      TimeStamp="9/3/2015 10:20:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileEASNitro.htm"
+      TimeStamp="9/3/2015 10:20:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileEmail.htm"
+      TimeStamp="9/3/2015 10:20:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileGlobalProxy.htm"
+      TimeStamp="9/3/2015 10:20:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileLDAP.htm"
+      TimeStamp="9/3/2015 10:20:10 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileMngedDomains.htm"
+      TimeStamp="9/3/2015 10:20:10 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileNetworkUsageRules.htm"
+      TimeStamp="9/3/2015 10:20:10 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfilePasscode.htm"
+      TimeStamp="9/3/2015 10:20:10 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfilePerAppVPNiOS.htm"
+      TimeStamp="9/3/2015 10:20:10 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileRestrictions.htm"
+      TimeStamp="9/3/2015 10:20:10 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileSingleAppMode.htm"
+      TimeStamp="9/3/2015 10:20:10 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileSSO.htm"
+      TimeStamp="9/3/2015 10:20:10 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileSubCals.htm"
+      TimeStamp="9/3/2015 10:20:10 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileVPN.htm"
+      TimeStamp="9/3/2015 10:20:10 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileVPNBlueCoat.htm"
+      TimeStamp="9/3/2015 10:20:11 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileVPNOnDemandiOS.htm"
+      TimeStamp="9/3/2015 10:20:11 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileVPNWebsense.htm"
+      TimeStamp="9/3/2015 10:20:11 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileWebClips.htm"
+      TimeStamp="9/3/2015 10:20:11 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileWebFilter.htm"
+      TimeStamp="9/3/2015 10:20:12 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/ProfileWiFi.htm"
+      TimeStamp="9/3/2015 10:20:12 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/Profile_OSXServerAccount.htm"
+      TimeStamp="9/3/2015 10:20:13 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/RemoteView.htm"
+      TimeStamp="9/3/2015 10:20:13 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/RequestingAirPlay.htm"
+      TimeStamp="9/3/2015 10:20:13 AM" />
+    <Url
+      Source="../../Content/Platform Guides/iOS/SetFriendlyName.htm"
+      TimeStamp="9/3/2015 10:20:13 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/!Revisions_KNOX.htm"
+      TimeStamp="9/3/2015 10:20:13 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/!What's New.htm"
+      TimeStamp="9/3/2015 10:20:13 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_AppControlKNOX.htm"
+      TimeStamp="9/3/2015 10:20:13 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_Bookmarks.htm"
+      TimeStamp="9/3/2015 10:20:13 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_BrowserKNOX.htm"
+      TimeStamp="9/3/2015 10:20:14 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_Bulk_credentials.htm"
+      TimeStamp="9/3/2015 10:20:14 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_Bulk_Enrolling.htm"
+      TimeStamp="9/3/2015 10:20:14 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_Bulk_Intro.htm"
+      TimeStamp="9/3/2015 10:20:14 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_Bulk_usingconsole.htm"
+      TimeStamp="9/3/2015 10:20:14 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_BYB.htm"
+      TimeStamp="9/3/2015 10:20:14 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_CredKNOX.htm"
+      TimeStamp="9/3/2015 10:20:14 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_Custom.htm"
+      TimeStamp="9/3/2015 10:20:15 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_DateTime.htm"
+      TimeStamp="9/3/2015 10:20:15 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_EASKNOX.htm"
+      TimeStamp="9/3/2015 10:20:15 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_EmailKNOX.htm"
+      TimeStamp="9/3/2015 10:20:15 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_End User.htm"
+      TimeStamp="9/3/2015 10:20:15 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_Firewall.htm"
+      TimeStamp="9/3/2015 10:20:15 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_Integrity.htm"
+      TimeStamp="9/3/2015 10:20:15 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_Intro.htm"
+      TimeStamp="9/3/2015 10:20:15 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_ManagingKNOX.htm"
+      TimeStamp="9/3/2015 10:20:15 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_PasscodeKNOX.htm"
+      TimeStamp="9/3/2015 10:20:16 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_Profiles.htm"
+      TimeStamp="9/3/2015 10:20:16 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_RestrictKNOX.htm"
+      TimeStamp="9/3/2015 10:20:16 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_SmartCardlKNOX.htm"
+      TimeStamp="9/3/2015 10:20:17 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_SSOKNOX.htm"
+      TimeStamp="9/3/2015 10:20:17 AM" />
+    <Url
+      Source="../../Content/Platform Guides/KNOX_Guide/KNOX_VPNKNOX.htm"
+      TimeStamp="9/3/2015 10:20:17 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/!Revisions_MacOSX.htm"
+      TimeStamp="9/3/2015 10:20:17 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/!What's New Template.htm"
+      TimeStamp="9/3/2015 10:20:17 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/AppCatalog.htm"
+      TimeStamp="9/3/2015 10:20:17 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/AppsAgentforMAC.htm"
+      TimeStamp="9/3/2015 10:20:17 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/AppsSCLSyncforMAC.htm"
+      TimeStamp="9/3/2015 10:20:18 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/Before_You_Begin.htm"
+      TimeStamp="9/3/2015 10:20:18 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/Cd_AirPrint.htm"
+      TimeStamp="9/3/2015 10:20:19 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/ConfigAdvancedStaging.htm"
+      TimeStamp="9/3/2015 10:20:20 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/ConfigStanStage.htm"
+      TimeStamp="9/3/2015 10:20:21 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/EnablingFullDisk.htm"
+      TimeStamp="9/3/2015 10:20:22 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/Enroll_Devices.htm"
+      TimeStamp="9/3/2015 10:20:24 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/InstaillingFonts.htm"
+      TimeStamp="9/3/2015 10:20:24 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/IntegrateAppleCare.htm"
+      TimeStamp="9/3/2015 10:20:25 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/Introduction.htm"
+      TimeStamp="9/3/2015 10:20:25 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/KioskforMac.htm"
+      TimeStamp="9/3/2015 10:20:25 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacAirPlay.htm"
+      TimeStamp="9/3/2015 10:20:25 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacAWApps.htm"
+      TimeStamp="9/3/2015 10:20:25 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacContentFilter.htm"
+      TimeStamp="9/3/2015 10:20:25 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacDwnldAgent.htm"
+      TimeStamp="9/3/2015 10:20:26 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacManagedDomains.htm"
+      TimeStamp="9/3/2015 10:20:26 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacMobility.htm"
+      TimeStamp="9/3/2015 10:20:26 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfile Messages.htm"
+      TimeStamp="9/3/2015 10:20:26 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileAccessibility.htm"
+      TimeStamp="9/3/2015 10:20:26 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileCredentials.htm"
+      TimeStamp="9/3/2015 10:20:26 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileCustomSettings.htm"
+      TimeStamp="9/3/2015 10:20:26 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileDAV.htm"
+      TimeStamp="9/3/2015 10:20:26 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileDirectory.htm"
+      TimeStamp="9/3/2015 10:20:26 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileDiskEncrypt.htm"
+      TimeStamp="9/3/2015 10:20:26 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileDock.htm"
+      TimeStamp="9/3/2015 10:20:27 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileEmail.htm"
+      TimeStamp="9/3/2015 10:20:27 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileEnergySaver.htm"
+      TimeStamp="9/3/2015 10:20:27 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileEWS.htm"
+      TimeStamp="9/3/2015 10:20:27 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileFinder.htm"
+      TimeStamp="9/3/2015 10:20:27 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileFirewall.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileFirmware.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileGlobalProxy.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileLDAP.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileLoginItems.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileLoginWindow.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileParentalControl.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfilePasscode.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfilePrinting.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileRestrictions.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileSecPrivacy.htm"
+      TimeStamp="9/3/2015 10:20:28 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileSoftUpdate.htm"
+      TimeStamp="9/3/2015 10:20:29 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileTimeMachine.htm"
+      TimeStamp="9/3/2015 10:20:29 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileVMFusion.htm"
+      TimeStamp="9/3/2015 10:20:29 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileVPN.htm"
+      TimeStamp="9/3/2015 10:20:29 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileVPNOnDemand.htm"
+      TimeStamp="9/3/2015 10:20:29 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileWebClips.htm"
+      TimeStamp="9/3/2015 10:20:29 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/MacProfileWiFi.htm"
+      TimeStamp="9/3/2015 10:20:29 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/Manage_Devices.htm"
+      TimeStamp="9/3/2015 10:20:29 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/ManagingMACDevDetails.htm"
+      TimeStamp="9/3/2015 10:20:30 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/ManagingMACHub.htm"
+      TimeStamp="9/3/2015 10:20:30 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/ManagingMACListView.htm"
+      TimeStamp="9/3/2015 10:20:30 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/ManagingMACReports.htm"
+      TimeStamp="9/3/2015 10:20:30 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/ManagingMACSSP.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/Profiles.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/RequestingAirPlay.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Mac_OSX/UsingXsan.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Android/AndroidRugged_WhatsNew.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Android/Android_Profiles.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Android/Appendix_OSUpgrade.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Android/Appendix_RunIntent.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Android/Intro_AndroidRugged.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Android/_Revisions_RuggedAndroid.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Appendix_AWAgentUpgrade.htm"
+      TimeStamp="9/3/2015 10:20:31 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Appendix_CustAttrib.htm"
+      TimeStamp="9/3/2015 10:20:32 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Appendix_PullRelay_Install.htm"
+      TimeStamp="9/3/2015 10:20:32 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Appendix_RemTunServInstall.htm"
+      TimeStamp="9/3/2015 10:20:32 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Appendix_XML.htm"
+      TimeStamp="9/3/2015 10:20:32 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Applications.htm"
+      TimeStamp="9/3/2015 10:20:32 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Before_Prod.htm"
+      TimeStamp="9/3/2015 10:20:32 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Conditions.htm"
+      TimeStamp="9/3/2015 10:20:32 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Editing_Profiles.htm"
+      TimeStamp="9/3/2015 10:20:33 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/EnterpriseReset.htm"
+      TimeStamp="9/3/2015 10:20:33 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/FilesActions.htm"
+      TimeStamp="9/3/2015 10:20:33 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Introduction.htm"
+      TimeStamp="9/3/2015 10:20:33 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Managing_Prod_Prov.htm"
+      TimeStamp="9/3/2015 10:20:33 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Products.htm"
+      TimeStamp="9/3/2015 10:20:33 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/ProductSets.htm"
+      TimeStamp="9/3/2015 10:20:33 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Prod_Dash.htm"
+      TimeStamp="9/3/2015 10:20:34 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Prod_DetailsView.htm"
+      TimeStamp="9/3/2015 10:20:34 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Prod_ListView.htm"
+      TimeStamp="9/3/2015 10:20:34 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Profiles_ProdProv.htm"
+      TimeStamp="9/3/2015 10:20:34 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Profile_CustomAttribute.htm"
+      TimeStamp="9/3/2015 10:20:34 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Profile_WiFi.htm"
+      TimeStamp="9/3/2015 10:20:34 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Pushing_Products.htm"
+      TimeStamp="9/3/2015 10:20:34 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Relay Servers.htm"
+      TimeStamp="9/3/2015 10:20:34 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/RS_Configuring.htm"
+      TimeStamp="9/3/2015 10:20:35 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/RS_Import_Bulk.htm"
+      TimeStamp="9/3/2015 10:20:35 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/RS_Remote_View.htm"
+      TimeStamp="9/3/2015 10:20:35 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Staging_Adv.htm"
+      TimeStamp="9/3/2015 10:20:35 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Staging_Barcode.htm"
+      TimeStamp="9/3/2015 10:20:35 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Staging_Config.htm"
+      TimeStamp="9/3/2015 10:20:35 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Staging_OnDmd.htm"
+      TimeStamp="9/3/2015 10:20:35 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Staging_Overview.htm"
+      TimeStamp="9/3/2015 10:20:35 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Staging_Sideload.htm"
+      TimeStamp="9/3/2015 10:20:35 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/Prod_Prov/Using Remote Management.htm"
+      TimeStamp="9/3/2015 10:20:36 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/!QNX_WhatsNew.htm"
+      TimeStamp="9/3/2015 10:20:36 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/!Revisions_QNX.htm"
+      TimeStamp="9/3/2015 10:20:36 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/Appendix_AgentUpgrade.htm"
+      TimeStamp="9/3/2015 10:20:36 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/Device_Profiles.htm"
+      TimeStamp="9/3/2015 10:20:36 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/Intro_QNX.htm"
+      TimeStamp="9/3/2015 10:20:36 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/Manage_QNX.htm"
+      TimeStamp="9/3/2015 10:20:36 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/QNX_Agent.htm"
+      TimeStamp="9/3/2015 10:20:36 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/UseDevDetails.htm"
+      TimeStamp="9/3/2015 10:20:37 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/UseDevListView.htm"
+      TimeStamp="9/3/2015 10:20:37 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/UseHub.htm"
+      TimeStamp="9/3/2015 10:20:37 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/UseReports.htm"
+      TimeStamp="9/3/2015 10:20:37 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/UseSSP.htm"
+      TimeStamp="9/3/2015 10:20:37 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/QNX/xx_AWTrigger_Appendix.htm"
+      TimeStamp="9/3/2015 10:20:37 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/!Revisions_WinMo.htm"
+      TimeStamp="9/3/2015 10:20:37 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/!WinMo_WhatsNew.htm"
+      TimeStamp="9/3/2015 10:20:37 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Appendix_CabCreate.htm"
+      TimeStamp="9/3/2015 10:20:37 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Appendix_CAMigrate.htm"
+      TimeStamp="9/3/2015 10:20:37 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Appendix_WinMo_OSUpgrade.htm"
+      TimeStamp="9/3/2015 10:20:38 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Apx_AWScript_Reference.htm"
+      TimeStamp="9/3/2015 10:20:38 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Apx_Over_Air_Migration.htm"
+      TimeStamp="9/3/2015 10:20:38 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/AW_Apps.htm"
+      TimeStamp="9/3/2015 10:20:38 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/AW_WinMo_Agent.htm"
+      TimeStamp="9/3/2015 10:20:38 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Before_WinMO.htm"
+      TimeStamp="9/3/2015 10:20:38 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Enroll_Scan.htm"
+      TimeStamp="9/3/2015 10:20:38 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Enroll_Side.htm"
+      TimeStamp="9/3/2015 10:20:38 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Enroll_Unenroll.htm"
+      TimeStamp="9/3/2015 10:20:38 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Enroll_Web.htm"
+      TimeStamp="9/3/2015 10:20:38 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Enroll_WinMo.htm"
+      TimeStamp="9/3/2015 10:20:39 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Intro_WinMO.htm"
+      TimeStamp="9/3/2015 10:20:39 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Manage_WinMo.htm"
+      TimeStamp="9/3/2015 10:20:39 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile.htm"
+      TimeStamp="9/3/2015 10:20:39 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_Credentials.htm"
+      TimeStamp="9/3/2015 10:20:39 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_Exchange.htm"
+      TimeStamp="9/3/2015 10:20:39 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_Launcher.htm"
+      TimeStamp="9/3/2015 10:20:39 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_Passcode.htm"
+      TimeStamp="9/3/2015 10:20:40 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_Proxy.htm"
+      TimeStamp="9/3/2015 10:20:40 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_Restrictions.htm"
+      TimeStamp="9/3/2015 10:20:40 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_Shortcuts.htm"
+      TimeStamp="9/3/2015 10:20:40 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_TimeSync.htm"
+      TimeStamp="9/3/2015 10:20:41 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_TimeZones.htm"
+      TimeStamp="9/3/2015 10:20:41 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_VPN.htm"
+      TimeStamp="9/3/2015 10:20:41 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_WiFi.htm"
+      TimeStamp="9/3/2015 10:20:41 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/Profile_WiFiFusion.htm"
+      TimeStamp="9/3/2015 10:20:42 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/UseDevDetails.htm"
+      TimeStamp="9/3/2015 10:20:42 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/UseDevListView.htm"
+      TimeStamp="9/3/2015 10:20:42 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/UseHub.htm"
+      TimeStamp="9/3/2015 10:20:43 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/UseReports.htm"
+      TimeStamp="9/3/2015 10:20:43 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/UseSSP.htm"
+      TimeStamp="9/3/2015 10:20:43 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Rugged/WinMo/xx_Appendix_DeviceLogging.htm"
+      TimeStamp="9/3/2015 10:20:43 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/!Revisions_Symbian.htm"
+      TimeStamp="9/3/2015 10:20:43 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/AWAgent.htm"
+      TimeStamp="9/3/2015 10:20:43 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Before_You_Begin.htm"
+      TimeStamp="9/3/2015 10:20:43 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Credentials.htm"
+      TimeStamp="9/3/2015 10:20:44 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Enroll Symbian.htm"
+      TimeStamp="9/3/2015 10:20:44 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Enrolling.htm"
+      TimeStamp="9/3/2015 10:20:44 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Exchange.htm"
+      TimeStamp="9/3/2015 10:20:44 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Introduction.htm"
+      TimeStamp="9/3/2015 10:20:44 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Managing Symbian devices.htm"
+      TimeStamp="9/3/2015 10:20:44 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Passcode.htm"
+      TimeStamp="9/3/2015 10:20:44 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Prereq.htm"
+      TimeStamp="9/3/2015 10:20:44 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Profiles.htm"
+      TimeStamp="9/3/2015 10:20:44 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/Things To Know.htm"
+      TimeStamp="9/3/2015 10:20:44 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/UseDevDetails.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/UseDevList.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/UseHub.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/UseReports.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/UseSSP.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/VPN.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Symbian/WiFi.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/!Revisions_Tizen.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/!Whats New Tizen.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/Before_You_Begin.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/DeviceDetails.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/Enroll_Agent.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/Enroll_Tizen.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/Hub.htm"
+      TimeStamp="9/3/2015 10:20:45 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/Introduction.htm"
+      TimeStamp="9/3/2015 10:20:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/ListViewTizen.htm"
+      TimeStamp="9/3/2015 10:20:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/Manage_Tizen.htm"
+      TimeStamp="9/3/2015 10:20:46 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/ProfileLockScreen.htm"
+      TimeStamp="9/3/2015 10:20:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/ProfilePasscode.htm"
+      TimeStamp="9/3/2015 10:20:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/ProfileWiFi.htm"
+      TimeStamp="9/3/2015 10:20:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/Reports.htm"
+      TimeStamp="9/3/2015 10:20:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/Sideload.htm"
+      TimeStamp="9/3/2015 10:20:47 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/SSP.htm"
+      TimeStamp="9/3/2015 10:20:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Tizen/Tizen_Profiles.htm"
+      TimeStamp="9/3/2015 10:20:48 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/!Revisions_Win8RT.htm"
+      TimeStamp="9/3/2015 10:20:49 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/!WhatsNew.htm"
+      TimeStamp="9/3/2015 10:20:49 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/AutoDiscover_Win8RT.htm"
+      TimeStamp="9/3/2015 10:20:49 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/AW_Apps.htm"
+      TimeStamp="9/3/2015 10:20:49 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/AW_Apps_Browser.htm"
+      TimeStamp="9/3/2015 10:20:49 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/AW_Apps_MDMAgent.htm"
+      TimeStamp="9/3/2015 10:20:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/AW_Apps_SCL.htm"
+      TimeStamp="9/3/2015 10:20:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/BYB.htm"
+      TimeStamp="9/3/2015 10:20:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Enroll_CloudDomain.htm"
+      TimeStamp="9/3/2015 10:20:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Enroll_EOBO.htm"
+      TimeStamp="9/3/2015 10:20:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Enroll_ProtectAgent.htm"
+      TimeStamp="9/3/2015 10:20:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Enroll_Win10.htm"
+      TimeStamp="9/3/2015 10:20:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Enroll_WinMDM.htm"
+      TimeStamp="9/3/2015 10:20:50 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Enroll_Workplace.htm"
+      TimeStamp="9/3/2015 10:20:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Intro_WinMDM.htm"
+      TimeStamp="9/3/2015 10:20:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Manage_Devices.htm"
+      TimeStamp="9/3/2015 10:20:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile.htm"
+      TimeStamp="9/3/2015 10:20:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_AntiVirus.htm"
+      TimeStamp="9/3/2015 10:20:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_AssignedAccess.htm"
+      TimeStamp="9/3/2015 10:20:51 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_Credentials.htm"
+      TimeStamp="9/3/2015 10:20:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_EAS_AWI.htm"
+      TimeStamp="9/3/2015 10:20:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_EAS_NAtive.htm"
+      TimeStamp="9/3/2015 10:20:52 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_EDP.htm"
+      TimeStamp="9/3/2015 10:20:53 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_Encryp.htm"
+      TimeStamp="9/3/2015 10:20:53 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_Firewall.htm"
+      TimeStamp="9/3/2015 10:20:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_Passport.htm"
+      TimeStamp="9/3/2015 10:20:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_Password.htm"
+      TimeStamp="9/3/2015 10:20:54 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_Restrictions.htm"
+      TimeStamp="9/3/2015 10:20:55 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_SCEP.htm"
+      TimeStamp="9/3/2015 10:20:55 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_VPN.htm"
+      TimeStamp="9/3/2015 10:20:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_WAU.htm"
+      TimeStamp="9/3/2015 10:20:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_Webclips.htm"
+      TimeStamp="9/3/2015 10:20:56 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Profile_WiFi.htm"
+      TimeStamp="9/3/2015 10:20:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/UseDevDetails.htm"
+      TimeStamp="9/3/2015 10:20:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/UseDevListView.htm"
+      TimeStamp="9/3/2015 10:20:57 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/UseHub.htm"
+      TimeStamp="9/3/2015 10:20:58 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/UseReports.htm"
+      TimeStamp="9/3/2015 10:20:58 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/UseSSP.htm"
+      TimeStamp="9/3/2015 10:20:58 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinDesktop/Win8RT_FeaturesMatrix.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/!Revisions_Win32.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/!Win32_WhatsNew.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/AirWatch_Apps.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/AW_Agent_32.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/AW_SCL_Snip.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Before_Win32.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Enroll_AdvMethod.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Enroll_Agent.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Enroll_Proxy.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Enroll_Side.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Enroll_Silent.htm"
+      TimeStamp="9/3/2015 10:20:59 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Enroll_Win32.htm"
+      TimeStamp="9/3/2015 10:21:00 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Intro_Win32.htm"
+      TimeStamp="9/3/2015 10:21:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Manage_Win32.htm"
+      TimeStamp="9/3/2015 10:21:01 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile.htm"
+      TimeStamp="9/3/2015 10:21:02 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile_AntiVirus.htm"
+      TimeStamp="9/3/2015 10:21:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile_Credentials.htm"
+      TimeStamp="9/3/2015 10:21:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile_Encryption.htm"
+      TimeStamp="9/3/2015 10:21:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile_Exchange.htm"
+      TimeStamp="9/3/2015 10:21:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile_Firewall.htm"
+      TimeStamp="9/3/2015 10:21:03 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile_Passcode.htm"
+      TimeStamp="9/3/2015 10:21:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile_Shortcuts.htm"
+      TimeStamp="9/3/2015 10:21:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile_VPN.htm"
+      TimeStamp="9/3/2015 10:21:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile_WAU.htm"
+      TimeStamp="9/3/2015 10:21:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/Profile_WiFi.htm"
+      TimeStamp="9/3/2015 10:21:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/UseDevDetails.htm"
+      TimeStamp="9/3/2015 10:21:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/UseDevListView.htm"
+      TimeStamp="9/3/2015 10:21:04 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/UseHub.htm"
+      TimeStamp="9/3/2015 10:21:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/UseReports.htm"
+      TimeStamp="9/3/2015 10:21:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/Windows 7/UseSSP.htm"
+      TimeStamp="9/3/2015 10:21:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/!Revisions_WinPho8.htm"
+      TimeStamp="9/3/2015 10:21:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/!WhatsNew.htm"
+      TimeStamp="9/3/2015 10:21:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/AWBrowser_Snip.htm"
+      TimeStamp="9/3/2015 10:21:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/AW_Apps.htm"
+      TimeStamp="9/3/2015 10:21:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/AW_CL_WPho.htm"
+      TimeStamp="9/3/2015 10:21:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/AW_WinPho8_Agent.htm"
+      TimeStamp="9/3/2015 10:21:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Before_WinPho8.htm"
+      TimeStamp="9/3/2015 10:21:05 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Enroll_Agent.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Enroll_CompanyHub.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Enroll_DMClient.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Enroll_Methods.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Enroll_WADS.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Enroll_Web.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Enroll_WinPho8.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/FeaturesMatrix_WinPho8.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Intro_WinPho8.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Manage_WinPho8.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile.htm"
+      TimeStamp="9/3/2015 10:21:06 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_AppControl.htm"
+      TimeStamp="9/3/2015 10:21:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_AssignedAccess.htm"
+      TimeStamp="9/3/2015 10:21:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_Credentials.htm"
+      TimeStamp="9/3/2015 10:21:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_Email.htm"
+      TimeStamp="9/3/2015 10:21:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_Exchange.htm"
+      TimeStamp="9/3/2015 10:21:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_ExchangeAWI.htm"
+      TimeStamp="9/3/2015 10:21:07 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_Passcode.htm"
+      TimeStamp="9/3/2015 10:21:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_Restrictions.htm"
+      TimeStamp="9/3/2015 10:21:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_SCEP.htm"
+      TimeStamp="9/3/2015 10:21:08 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_VPN.htm"
+      TimeStamp="9/3/2015 10:21:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/Profile_WiFi.htm"
+      TimeStamp="9/3/2015 10:21:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/SSO_Snip.htm"
+      TimeStamp="9/3/2015 10:21:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/UseDevDetails.htm"
+      TimeStamp="9/3/2015 10:21:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/UseDevListView.htm"
+      TimeStamp="9/3/2015 10:21:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/UseHub.htm"
+      TimeStamp="9/3/2015 10:21:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/UseReport.htm"
+      TimeStamp="9/3/2015 10:21:09 AM" />
+    <Url
+      Source="../../Content/Platform Guides/WinPhone/UseSSP.htm"
+      TimeStamp="9/3/2015 10:21:10 AM" />
+    <Url
+      Source="../TOCs/Platform Guides.fltoc"
+      TimeStamp="9/3/2015 10:24:14 AM" />
+  </GeneratedFiles>
+</HtmlImport>

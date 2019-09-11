@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="AppLevelSingleSignOn" Link="/Content/Platform Guides/!Shared_Topics/AppLevelSingleSignOn.htm" />
+    <TocEntry Title="Kiosk_Introduction" Link="/Content/Platform Guides/!Shared_Topics/Kiosk/Kiosk_Introduction.htm" />
+    <TocEntry Title="Conifig_SDs" Link="/Content/Platform Guides/!Shared_Topics/SD/Conifig_SDs.htm" />
+    <TocEntry Title="Organize_SDs" Link="/Content/Platform Guides/!Shared_Topics/SD/Organize_SDs.htm" />
+    <TocEntry Title="SD_Intro" Link="/Content/Platform Guides/!Shared_Topics/SD/SD_Intro.htm" />
+    <TocEntry Title="Use_SDs" Link="/Content/Platform Guides/!Shared_Topics/SD/Use_SDs.htm" />
+    <TocEntry Title="UG_SSP_Accessing" Link="/Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Accessing.htm" />
+    <TocEntry Title="UG_SSP_Actions" Link="/Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Actions.htm" />
+    <TocEntry Title="UG_SSP_ActionsMatrix" Link="/Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_ActionsMatrix.htm" />
+    <TocEntry Title="UG_SSP_Customizing" Link="/Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Customizing.htm" />
+    <TocEntry Title="UG_SSP_Intro" Link="/Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Intro.htm" />
+    <TocEntry Title="UG_SSP_Outlook_Ad-in" Link="/Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Outlook_Ad-in.htm" />
+    <TocEntry Title="UG_SSP_SCL_Options" Link="/Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_SCL_Options.htm" />
+    <TocEntry Title="UG_SSP_Shared_AdminNote" Link="/Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_Shared_AdminNote.htm" />
+    <TocEntry Title="UG_SSP_UsingMyDevices" Link="/Content/Platform Guides/!Shared_Topics/SSP/UG_SSP_UsingMyDevices.htm" />
+    <TocEntry Title="What's New" Link="/Content/Platform Guides/!Shared_Topics/SSP/What's New.htm" />
+    <TocEntry Title="!Revisions_Andr" Link="/Content/Platform Guides/Android/!Revisions_Andr.htm" />
+    <TocEntry Title="!Whats New Android" Link="/Content/Platform Guides/Android/!Whats New Android.htm" />
+    <TocEntry Title="AndroidApps" Link="/Content/Platform Guides/Android/AndroidApps.htm" />
+    <TocEntry Title="Android_Profiles" Link="/Content/Platform Guides/Android/Android_Profiles.htm" />
+    <TocEntry Title="AppsAgentforAndroid" Link="/Content/Platform Guides/Android/AppsAgentforAndroid.htm" />
+    <TocEntry Title="AppsAWBforAndroid" Link="/Content/Platform Guides/Android/AppsAWBforAndroid.htm" />
+    <TocEntry Title="AppsAWInboxforAndroid" Link="/Content/Platform Guides/Android/AppsAWInboxforAndroid.htm" />
+    <TocEntry Title="AppsAWWorkspaceforAndroid" Link="/Content/Platform Guides/Android/AppsAWWorkspaceforAndroid.htm" />
+    <TocEntry Title="AppsSCLforAndroid" Link="/Content/Platform Guides/Android/AppsSCLforAndroid.htm" />
+    <TocEntry Title="AutoEnroll" Link="/Content/Platform Guides/Android/AutoEnroll.htm" />
+    <TocEntry Title="AWCM" Link="/Content/Platform Guides/Android/AWCM.htm" />
+    <TocEntry Title="Before_You_Begin" Link="/Content/Platform Guides/Android/Before_You_Begin.htm" />
+    <TocEntry Title="DeviceDetails" Link="/Content/Platform Guides/Android/DeviceDetails.htm" />
+    <TocEntry Title="Download_OEMServiceApp" Link="/Content/Platform Guides/Android/Download_OEMServiceApp.htm" />
+    <TocEntry Title="Enroll_Agent" Link="/Content/Platform Guides/Android/Enroll_Agent.htm" />
+    <TocEntry Title="Enroll_Android" Link="/Content/Platform Guides/Android/Enroll_Android.htm" />
+    <TocEntry Title="Hub" Link="/Content/Platform Guides/Android/Hub.htm" />
+    <TocEntry Title="Introduction" Link="/Content/Platform Guides/Android/Introduction.htm" />
+    <TocEntry Title="ListViewAndroid" Link="/Content/Platform Guides/Android/ListViewAndroid.htm" />
+    <TocEntry Title="Manage_Android" Link="/Content/Platform Guides/Android/Manage_Android.htm" />
+    <TocEntry Title="OEM_Features_Matrix" Link="/Content/Platform Guides/Android/OEM_Features_Matrix.htm" />
+    <TocEntry Title="ProfileAdvances" Link="/Content/Platform Guides/Android/ProfileAdvances.htm" />
+    <TocEntry Title="ProfileAppCon" Link="/Content/Platform Guides/Android/ProfileAppCon.htm" />
+    <TocEntry Title="ProfileBookmarks" Link="/Content/Platform Guides/Android/ProfileBookmarks.htm" />
+    <TocEntry Title="ProfileCred" Link="/Content/Platform Guides/Android/ProfileCred.htm" />
+    <TocEntry Title="ProfileCustom" Link="/Content/Platform Guides/Android/ProfileCustom.htm" />
+    <TocEntry Title="ProfileDateTime" Link="/Content/Platform Guides/Android/ProfileDateTime.htm" />
+    <TocEntry Title="ProfileDisplay" Link="/Content/Platform Guides/Android/ProfileDisplay.htm" />
+    <TocEntry Title="ProfileEAS" Link="/Content/Platform Guides/Android/ProfileEAS.htm" />
+    <TocEntry Title="ProfileEASAWinbox" Link="/Content/Platform Guides/Android/ProfileEASAWinbox.htm" />
+    <TocEntry Title="ProfileEASLotus" Link="/Content/Platform Guides/Android/ProfileEASLotus.htm" />
+    <TocEntry Title="ProfileEASNative" Link="/Content/Platform Guides/Android/ProfileEASNative.htm" />
+    <TocEntry Title="ProfileEASNitro" Link="/Content/Platform Guides/Android/ProfileEASNitro.htm" />
+    <TocEntry Title="ProfileEmail" Link="/Content/Platform Guides/Android/ProfileEmail.htm" />
+    <TocEntry Title="ProfileFirewall" Link="/Content/Platform Guides/Android/ProfileFirewall.htm" />
+    <TocEntry Title="ProfileHTTPProxy" Link="/Content/Platform Guides/Android/ProfileHTTPProxy.htm" />
+    <TocEntry Title="ProfileLockScreen" Link="/Content/Platform Guides/Android/ProfileLockScreen.htm" />
+    <TocEntry Title="ProfilePasscode" Link="/Content/Platform Guides/Android/ProfilePasscode.htm" />
+    <TocEntry Title="ProfilePerAppVPNAnd" Link="/Content/Platform Guides/Android/ProfilePerAppVPNAnd.htm" />
+    <TocEntry Title="ProfileRestrictions" Link="/Content/Platform Guides/Android/ProfileRestrictions.htm" />
+    <TocEntry Title="ProfileSecureLauncer" Link="/Content/Platform Guides/Android/ProfileSecureLauncer.htm" />
+    <TocEntry Title="ProfileSound" Link="/Content/Platform Guides/Android/ProfileSound.htm" />
+    <TocEntry Title="ProfileVPN" Link="/Content/Platform Guides/Android/ProfileVPN.htm" />
+    <TocEntry Title="ProfileVPNWebsense" Link="/Content/Platform Guides/Android/ProfileVPNWebsense.htm" />
+    <TocEntry Title="ProfileWiFi" Link="/Content/Platform Guides/Android/ProfileWiFi.htm" />
+    <TocEntry Title="Reports" Link="/Content/Platform Guides/Android/Reports.htm" />
+    <TocEntry Title="Sideload" Link="/Content/Platform Guides/Android/Sideload.htm" />
+    <TocEntry Title="SSP" Link="/Content/Platform Guides/Android/SSP.htm" />
+    <TocEntry Title="VPNOnDemandAndroid" Link="/Content/Platform Guides/Android/VPNOnDemandAndroid.htm" />
+    <TocEntry Title="!Revisions_AndrWork" Link="/Content/Platform Guides/Android Work/!Revisions_AndrWork.htm" />
+    <TocEntry Title="!What's New" Link="/Content/Platform Guides/Android Work/!What's New.htm" />
+    <TocEntry Title="AFW _ Profiles" Link="/Content/Platform Guides/Android Work/AFW _ Profiles.htm" />
+    <TocEntry Title="AFW_BYB" Link="/Content/Platform Guides/Android Work/AFW_BYB.htm" />
+    <TocEntry Title="AFW_Intro" Link="/Content/Platform Guides/Android Work/AFW_Intro.htm" />
+    <TocEntry Title="AW_App_Control" Link="/Content/Platform Guides/Android Work/AW_App_Control.htm" />
+    <TocEntry Title="AW_Chrome Brswr Settings" Link="/Content/Platform Guides/Android Work/AW_Chrome Brswr Settings.htm" />
+    <TocEntry Title="AW_Creating Users" Link="/Content/Platform Guides/Android Work/AW_Creating Users.htm" />
+    <TocEntry Title="AW_Credentials" Link="/Content/Platform Guides/Android Work/AW_Credentials.htm" />
+    <TocEntry Title="AW_EAS" Link="/Content/Platform Guides/Android Work/AW_EAS.htm" />
+    <TocEntry Title="AW_Enroll" Link="/Content/Platform Guides/Android Work/AW_Enroll.htm" />
+    <TocEntry Title="AW_EnrollWorkMan" Link="/Content/Platform Guides/Android Work/AW_EnrollWorkMan.htm" />
+    <TocEntry Title="AW_Features_Matrix" Link="/Content/Platform Guides/Android Work/AW_Features_Matrix.htm" />
+    <TocEntry Title="AW_functionality" Link="/Content/Platform Guides/Android Work/AW_functionality.htm" />
+    <TocEntry Title="AW_Getting started" Link="/Content/Platform Guides/Android Work/AW_Getting started.htm" />
+    <TocEntry Title="AW_Managing" Link="/Content/Platform Guides/Android Work/AW_Managing.htm" />
+    <TocEntry Title="AW_ProfilePasscode" Link="/Content/Platform Guides/Android Work/AW_ProfilePasscode.htm" />
+    <TocEntry Title="AW_ProfileVPN" Link="/Content/Platform Guides/Android Work/AW_ProfileVPN.htm" />
+    <TocEntry Title="AW_ProfPerAppVPNAnd" Link="/Content/Platform Guides/Android Work/AW_ProfPerAppVPNAnd.htm" />
+    <TocEntry Title="AW_Proxy" Link="/Content/Platform Guides/Android Work/AW_Proxy.htm" />
+    <TocEntry Title="AW_Restrictions" Link="/Content/Platform Guides/Android Work/AW_Restrictions.htm" />
+    <TocEntry Title="EnrollWorkProfile" Link="/Content/Platform Guides/Android Work/EnrollWorkProfile.htm" />
+    <TocEntry Title="!Revisions_AppleTV" Link="/Content/Platform Guides/AppleTV/!Revisions_AppleTV.htm" />
+    <TocEntry Title="AppleTVCredentials" Link="/Content/Platform Guides/AppleTV/AppleTVCredentials.htm" />
+    <TocEntry Title="AppleTVDevDetails" Link="/Content/Platform Guides/AppleTV/AppleTVDevDetails.htm" />
+    <TocEntry Title="AppleTVDevListView" Link="/Content/Platform Guides/AppleTV/AppleTVDevListView.htm" />
+    <TocEntry Title="AppleTVHub" Link="/Content/Platform Guides/AppleTV/AppleTVHub.htm" />
+    <TocEntry Title="AppleTVReports" Link="/Content/Platform Guides/AppleTV/AppleTVReports.htm" />
+    <TocEntry Title="AppleTVSSP" Link="/Content/Platform Guides/AppleTV/AppleTVSSP.htm" />
+    <TocEntry Title="AppleTVWifiProfile" Link="/Content/Platform Guides/AppleTV/AppleTVWifiProfile.htm" />
+    <TocEntry Title="Before_You_Begin" Link="/Content/Platform Guides/AppleTV/Before_You_Begin.htm" />
+    <TocEntry Title="Config_AppleTV" Link="/Content/Platform Guides/AppleTV/Config_AppleTV.htm" />
+    <TocEntry Title="Enroll_AppleTV" Link="/Content/Platform Guides/AppleTV/Enroll_AppleTV.htm" />
+    <TocEntry Title="Introduction" Link="/Content/Platform Guides/AppleTV/Introduction.htm" />
+    <TocEntry Title="Manage_AppleTV" Link="/Content/Platform Guides/AppleTV/Manage_AppleTV.htm" />
+    <TocEntry Title="!Revisions_BB" Link="/Content/Platform Guides/BlackBerry/!Revisions_BB.htm" />
+    <TocEntry Title="Advanced" Link="/Content/Platform Guides/BlackBerry/Advanced.htm" />
+    <TocEntry Title="Appx_BES_Config" Link="/Content/Platform Guides/BlackBerry/Appx_BES_Config.htm" />
+    <TocEntry Title="AW_Apps_BB10" Link="/Content/Platform Guides/BlackBerry/AW_Apps_BB10.htm" />
+    <TocEntry Title="AW_BES" Link="/Content/Platform Guides/BlackBerry/AW_BES.htm" />
+    <TocEntry Title="Before_BB10_Leg" Link="/Content/Platform Guides/BlackBerry/Before_BB10_Leg.htm" />
+    <TocEntry Title="Config_BES" Link="/Content/Platform Guides/BlackBerry/Config_BES.htm" />
+    <TocEntry Title="Connect_AW" Link="/Content/Platform Guides/BlackBerry/Connect_AW.htm" />
+    <TocEntry Title="Connect_BES" Link="/Content/Platform Guides/BlackBerry/Connect_BES.htm" />
+    <TocEntry Title="Custom" Link="/Content/Platform Guides/BlackBerry/Custom.htm" />
+    <TocEntry Title="Device" Link="/Content/Platform Guides/BlackBerry/Device.htm" />
+    <TocEntry Title="Enroll_Agent" Link="/Content/Platform Guides/BlackBerry/Enroll_Agent.htm" />
+    <TocEntry Title="Enroll_BB10" Link="/Content/Platform Guides/BlackBerry/Enroll_BB10.htm" />
+    <TocEntry Title="Enroll_BES" Link="/Content/Platform Guides/BlackBerry/Enroll_BES.htm" />
+    <TocEntry Title="Features Matrix" Link="/Content/Platform Guides/BlackBerry/Features Matrix.htm" />
+    <TocEntry Title="Integrate_AW" Link="/Content/Platform Guides/BlackBerry/Integrate_AW.htm" />
+    <TocEntry Title="Integrate_BB10" Link="/Content/Platform Guides/BlackBerry/Integrate_BB10.htm" />
+    <TocEntry Title="Integrate_BES" Link="/Content/Platform Guides/BlackBerry/Integrate_BES.htm" />
+    <TocEntry Title="Integrate_Req" Link="/Content/Platform Guides/BlackBerry/Integrate_Req.htm" />
+    <TocEntry Title="Into_BB10_Leg" Link="/Content/Platform Guides/BlackBerry/Into_BB10_Leg.htm" />
+    <TocEntry Title="Manage_All_BB" Link="/Content/Platform Guides/BlackBerry/Manage_All_BB.htm" />
+    <TocEntry Title="MEM" Link="/Content/Platform Guides/BlackBerry/MEM.htm" />
+    <TocEntry Title="Migration" Link="/Content/Platform Guides/BlackBerry/Migration.htm" />
+    <TocEntry Title="Passcode" Link="/Content/Platform Guides/BlackBerry/Passcode.htm" />
+    <TocEntry Title="Post_enroll" Link="/Content/Platform Guides/BlackBerry/Post_enroll.htm" />
+    <TocEntry Title="Profiles_BB10" Link="/Content/Platform Guides/BlackBerry/Profiles_BB10.htm" />
+    <TocEntry Title="Profiles_BES" Link="/Content/Platform Guides/BlackBerry/Profiles_BES.htm" />
+    <TocEntry Title="RegDevice" Link="/Content/Platform Guides/BlackBerry/RegDevice.htm" />
+    <TocEntry Title="Secure_Channel" Link="/Content/Platform Guides/BlackBerry/Secure_Channel.htm" />
+    <TocEntry Title="Staging_BB10" Link="/Content/Platform Guides/BlackBerry/Staging_BB10.htm" />
+    <TocEntry Title="Telecom" Link="/Content/Platform Guides/BlackBerry/Telecom.htm" />
+    <TocEntry Title="UseAW_BES" Link="/Content/Platform Guides/BlackBerry/UseAW_BES.htm" />
+    <TocEntry Title="UseDevDetails" Link="/Content/Platform Guides/BlackBerry/UseDevDetails.htm" />
+    <TocEntry Title="UseDevList" Link="/Content/Platform Guides/BlackBerry/UseDevList.htm" />
+    <TocEntry Title="UseHub" Link="/Content/Platform Guides/BlackBerry/UseHub.htm" />
+    <TocEntry Title="UseReports" Link="/Content/Platform Guides/BlackBerry/UseReports.htm" />
+    <TocEntry Title="UseSSP" Link="/Content/Platform Guides/BlackBerry/UseSSP.htm" />
+    <TocEntry Title="!Revisions_Chrome" Link="/Content/Platform Guides/Chromebook/!Revisions_Chrome.htm" />
+    <TocEntry Title="!What's New Chromebook" Link="/Content/Platform Guides/Chromebook/!What's New Chromebook.htm" />
+    <TocEntry Title="Chrmbebk_Enroll" Link="/Content/Platform Guides/Chromebook/Chrmbebk_Enroll.htm" />
+    <TocEntry Title="Chrmebk_Bookmrks" Link="/Content/Platform Guides/Chromebook/Chrmebk_Bookmrks.htm" />
+    <TocEntry Title="Chrmebk_BYB" Link="/Content/Platform Guides/Chromebook/Chrmebk_BYB.htm" />
+    <TocEntry Title="Chrmebk_Devicedetails" Link="/Content/Platform Guides/Chromebook/Chrmebk_Devicedetails.htm" />
+    <TocEntry Title="Chrmebk_HTTProxy" Link="/Content/Platform Guides/Chromebook/Chrmebk_HTTProxy.htm" />
+    <TocEntry Title="Chrmebk_Intro" Link="/Content/Platform Guides/Chromebook/Chrmebk_Intro.htm" />
+    <TocEntry Title="Chrmebk_Managing" Link="/Content/Platform Guides/Chromebook/Chrmebk_Managing.htm" />
+    <TocEntry Title="Chrmebk_Profiles" Link="/Content/Platform Guides/Chromebook/Chrmebk_Profiles.htm" />
+    <TocEntry Title="Chrmebk_Restrictions" Link="/Content/Platform Guides/Chromebook/Chrmebk_Restrictions.htm" />
+    <TocEntry Title="Chrmebk_WebRestrictions" Link="/Content/Platform Guides/Chromebook/Chrmebk_WebRestrictions.htm" />
+    <TocEntry Title="!Revisions_iOS" Link="/Content/Platform Guides/iOS/!Revisions_iOS.htm" />
+    <TocEntry Title="!WhatsNew" Link="/Content/Platform Guides/iOS/!WhatsNew.htm" />
+    <TocEntry Title="Appendix_iOS_Func" Link="/Content/Platform Guides/iOS/Appendix_iOS_Func.htm" />
+    <TocEntry Title="AppleCareGSX" Link="/Content/Platform Guides/iOS/AppleCareGSX.htm" />
+    <TocEntry Title="AppsAgentforiOS" Link="/Content/Platform Guides/iOS/AppsAgentforiOS.htm" />
+    <TocEntry Title="AppsBrowserforiOS" Link="/Content/Platform Guides/iOS/AppsBrowserforiOS.htm" />
+    <TocEntry Title="AppsInboxforiOS" Link="/Content/Platform Guides/iOS/AppsInboxforiOS.htm" />
+    <TocEntry Title="AppsSCLforiOS" Link="/Content/Platform Guides/iOS/AppsSCLforiOS.htm" />
+    <TocEntry Title="AppsWSforiOS" Link="/Content/Platform Guides/iOS/AppsWSforiOS.htm" />
+    <TocEntry Title="AWAppsforiOS" Link="/Content/Platform Guides/iOS/AWAppsforiOS.htm" />
+    <TocEntry Title="Before_You_Begin" Link="/Content/Platform Guides/iOS/Before_You_Begin.htm" />
+    <TocEntry Title="EnrollCapability" Link="/Content/Platform Guides/iOS/EnrollCapability.htm" />
+    <TocEntry Title="EnrollConfigurator" Link="/Content/Platform Guides/iOS/EnrollConfigurator.htm" />
+    <TocEntry Title="EnrollDEP" Link="/Content/Platform Guides/iOS/EnrollDEP.htm" />
+    <TocEntry Title="Enrolling_iOS_Devices" Link="/Content/Platform Guides/iOS/Enrolling_iOS_Devices.htm" />
+    <TocEntry Title="EnrollSafari" Link="/Content/Platform Guides/iOS/EnrollSafari.htm" />
+    <TocEntry Title="Enroll_Agent" Link="/Content/Platform Guides/iOS/Enroll_Agent.htm" />
+    <TocEntry Title="iBeacon" Link="/Content/Platform Guides/iOS/iBeacon.htm" />
+    <TocEntry Title="Introduction" Link="/Content/Platform Guides/iOS/Introduction.htm" />
+    <TocEntry Title="iOSConfigurator" Link="/Content/Platform Guides/iOS/iOSConfigurator.htm" />
+    <TocEntry Title="iOS_Profiles" Link="/Content/Platform Guides/iOS/iOS_Profiles.htm" />
+    <TocEntry Title="ManagingiOSActivationLock" Link="/Content/Platform Guides/iOS/ManagingiOSActivationLock.htm" />
+    <TocEntry Title="ManagingiOSCustomFonts" Link="/Content/Platform Guides/iOS/ManagingiOSCustomFonts.htm" />
+    <TocEntry Title="ManagingiOSDevDetails" Link="/Content/Platform Guides/iOS/ManagingiOSDevDetails.htm" />
+    <TocEntry Title="ManagingiOSHub" Link="/Content/Platform Guides/iOS/ManagingiOSHub.htm" />
+    <TocEntry Title="ManagingiOSListView" Link="/Content/Platform Guides/iOS/ManagingiOSListView.htm" />
+    <TocEntry Title="ManagingiOSManagedSttngs" Link="/Content/Platform Guides/iOS/ManagingiOSManagedSttngs.htm" />
+    <TocEntry Title="ManagingiOSReports" Link="/Content/Platform Guides/iOS/ManagingiOSReports.htm" />
+    <TocEntry Title="ManagingiOSSSP" Link="/Content/Platform Guides/iOS/ManagingiOSSSP.htm" />
+    <TocEntry Title="Managing_iOS_Devices" Link="/Content/Platform Guides/iOS/Managing_iOS_Devices.htm" />
+    <TocEntry Title="OSUpdates" Link="/Content/Platform Guides/iOS/OSUpdates.htm" />
+    <TocEntry Title="ProfileAirPlay" Link="/Content/Platform Guides/iOS/ProfileAirPlay.htm" />
+    <TocEntry Title="ProfileAirPrint" Link="/Content/Platform Guides/iOS/ProfileAirPrint.htm" />
+    <TocEntry Title="ProfileCalCardDAV" Link="/Content/Platform Guides/iOS/ProfileCalCardDAV.htm" />
+    <TocEntry Title="ProfileCellular" Link="/Content/Platform Guides/iOS/ProfileCellular.htm" />
+    <TocEntry Title="ProfileCredentials" Link="/Content/Platform Guides/iOS/ProfileCredentials.htm" />
+    <TocEntry Title="ProfileCustomSetts" Link="/Content/Platform Guides/iOS/ProfileCustomSetts.htm" />
+    <TocEntry Title="ProfileEAS" Link="/Content/Platform Guides/iOS/ProfileEAS.htm" />
+    <TocEntry Title="ProfileEASAWInbox" Link="/Content/Platform Guides/iOS/ProfileEASAWInbox.htm" />
+    <TocEntry Title="ProfileEASNative" Link="/Content/Platform Guides/iOS/ProfileEASNative.htm" />
+    <TocEntry Title="ProfileEASNitro" Link="/Content/Platform Guides/iOS/ProfileEASNitro.htm" />
+    <TocEntry Title="ProfileEmail" Link="/Content/Platform Guides/iOS/ProfileEmail.htm" />
+    <TocEntry Title="ProfileGlobalProxy" Link="/Content/Platform Guides/iOS/ProfileGlobalProxy.htm" />
+    <TocEntry Title="ProfileLDAP" Link="/Content/Platform Guides/iOS/ProfileLDAP.htm" />
+    <TocEntry Title="ProfileMngedDomains" Link="/Content/Platform Guides/iOS/ProfileMngedDomains.htm" />
+    <TocEntry Title="ProfileNetworkUsageRules" Link="/Content/Platform Guides/iOS/ProfileNetworkUsageRules.htm" />
+    <TocEntry Title="ProfilePasscode" Link="/Content/Platform Guides/iOS/ProfilePasscode.htm" />
+    <TocEntry Title="ProfilePerAppVPNiOS" Link="/Content/Platform Guides/iOS/ProfilePerAppVPNiOS.htm" />
+    <TocEntry Title="ProfileRestrictions" Link="/Content/Platform Guides/iOS/ProfileRestrictions.htm" />
+    <TocEntry Title="ProfileSingleAppMode" Link="/Content/Platform Guides/iOS/ProfileSingleAppMode.htm" />
+    <TocEntry Title="ProfileSSO" Link="/Content/Platform Guides/iOS/ProfileSSO.htm" />
+    <TocEntry Title="ProfileSubCals" Link="/Content/Platform Guides/iOS/ProfileSubCals.htm" />
+    <TocEntry Title="ProfileVPN" Link="/Content/Platform Guides/iOS/ProfileVPN.htm" />
+    <TocEntry Title="ProfileVPNBlueCoat" Link="/Content/Platform Guides/iOS/ProfileVPNBlueCoat.htm" />
+    <TocEntry Title="ProfileVPNOnDemandiOS" Link="/Content/Platform Guides/iOS/ProfileVPNOnDemandiOS.htm" />
+    <TocEntry Title="ProfileVPNWebsense" Link="/Content/Platform Guides/iOS/ProfileVPNWebsense.htm" />
+    <TocEntry Title="ProfileWebClips" Link="/Content/Platform Guides/iOS/ProfileWebClips.htm" />
+    <TocEntry Title="ProfileWebFilter" Link="/Content/Platform Guides/iOS/ProfileWebFilter.htm" />
+    <TocEntry Title="ProfileWiFi" Link="/Content/Platform Guides/iOS/ProfileWiFi.htm" />
+    <TocEntry Title="Profile_OSXServerAccount" Link="/Content/Platform Guides/iOS/Profile_OSXServerAccount.htm" />
+    <TocEntry Title="RemoteView" Link="/Content/Platform Guides/iOS/RemoteView.htm" />
+    <TocEntry Title="RequestingAirPlay" Link="/Content/Platform Guides/iOS/RequestingAirPlay.htm" />
+    <TocEntry Title="SetFriendlyName" Link="/Content/Platform Guides/iOS/SetFriendlyName.htm" />
+    <TocEntry Title="!Revisions_KNOX" Link="/Content/Platform Guides/KNOX_Guide/!Revisions_KNOX.htm" />
+    <TocEntry Title="!What's New" Link="/Content/Platform Guides/KNOX_Guide/!What's New.htm" />
+    <TocEntry Title="KNOX_AppControlKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_AppControlKNOX.htm" />
+    <TocEntry Title="KNOX_Bookmarks" Link="/Content/Platform Guides/KNOX_Guide/KNOX_Bookmarks.htm" />
+    <TocEntry Title="KNOX_BrowserKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_BrowserKNOX.htm" />
+    <TocEntry Title="KNOX_Bulk_credentials" Link="/Content/Platform Guides/KNOX_Guide/KNOX_Bulk_credentials.htm" />
+    <TocEntry Title="KNOX_Bulk_Enrolling" Link="/Content/Platform Guides/KNOX_Guide/KNOX_Bulk_Enrolling.htm" />
+    <TocEntry Title="KNOX_Bulk_Intro" Link="/Content/Platform Guides/KNOX_Guide/KNOX_Bulk_Intro.htm" />
+    <TocEntry Title="KNOX_Bulk_usingconsole" Link="/Content/Platform Guides/KNOX_Guide/KNOX_Bulk_usingconsole.htm" />
+    <TocEntry Title="KNOX_BYB" Link="/Content/Platform Guides/KNOX_Guide/KNOX_BYB.htm" />
+    <TocEntry Title="KNOX_CredKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_CredKNOX.htm" />
+    <TocEntry Title="KNOX_Custom" Link="/Content/Platform Guides/KNOX_Guide/KNOX_Custom.htm" />
+    <TocEntry Title="KNOX_DateTime" Link="/Content/Platform Guides/KNOX_Guide/KNOX_DateTime.htm" />
+    <TocEntry Title="KNOX_EASKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_EASKNOX.htm" />
+    <TocEntry Title="KNOX_EmailKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_EmailKNOX.htm" />
+    <TocEntry Title="KNOX_End User" Link="/Content/Platform Guides/KNOX_Guide/KNOX_End User.htm" />
+    <TocEntry Title="KNOX_Firewall" Link="/Content/Platform Guides/KNOX_Guide/KNOX_Firewall.htm" />
+    <TocEntry Title="KNOX_Integrity" Link="/Content/Platform Guides/KNOX_Guide/KNOX_Integrity.htm" />
+    <TocEntry Title="KNOX_Intro" Link="/Content/Platform Guides/KNOX_Guide/KNOX_Intro.htm" />
+    <TocEntry Title="KNOX_ManagingKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_ManagingKNOX.htm" />
+    <TocEntry Title="KNOX_PasscodeKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_PasscodeKNOX.htm" />
+    <TocEntry Title="KNOX_Profiles" Link="/Content/Platform Guides/KNOX_Guide/KNOX_Profiles.htm" />
+    <TocEntry Title="KNOX_RestrictKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_RestrictKNOX.htm" />
+    <TocEntry Title="KNOX_SmartCardlKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_SmartCardlKNOX.htm" />
+    <TocEntry Title="KNOX_SSOKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_SSOKNOX.htm" />
+    <TocEntry Title="KNOX_VPNKNOX" Link="/Content/Platform Guides/KNOX_Guide/KNOX_VPNKNOX.htm" />
+    <TocEntry Title="!Revisions_MacOSX" Link="/Content/Platform Guides/Mac_OSX/!Revisions_MacOSX.htm" />
+    <TocEntry Title="!What's New Template" Link="/Content/Platform Guides/Mac_OSX/!What's New Template.htm" />
+    <TocEntry Title="AppCatalog" Link="/Content/Platform Guides/Mac_OSX/AppCatalog.htm" />
+    <TocEntry Title="AppsAgentforMAC" Link="/Content/Platform Guides/Mac_OSX/AppsAgentforMAC.htm" />
+    <TocEntry Title="AppsSCLSyncforMAC" Link="/Content/Platform Guides/Mac_OSX/AppsSCLSyncforMAC.htm" />
+    <TocEntry Title="Before_You_Begin" Link="/Content/Platform Guides/Mac_OSX/Before_You_Begin.htm" />
+    <TocEntry Title="Cd_AirPrint" Link="/Content/Platform Guides/Mac_OSX/Cd_AirPrint.htm" />
+    <TocEntry Title="ConfigAdvancedStaging" Link="/Content/Platform Guides/Mac_OSX/ConfigAdvancedStaging.htm" />
+    <TocEntry Title="ConfigStanStage" Link="/Content/Platform Guides/Mac_OSX/ConfigStanStage.htm" />
+    <TocEntry Title="EnablingFullDisk" Link="/Content/Platform Guides/Mac_OSX/EnablingFullDisk.htm" />
+    <TocEntry Title="Enroll_Devices" Link="/Content/Platform Guides/Mac_OSX/Enroll_Devices.htm" />
+    <TocEntry Title="InstaillingFonts" Link="/Content/Platform Guides/Mac_OSX/InstaillingFonts.htm" />
+    <TocEntry Title="IntegrateAppleCare" Link="/Content/Platform Guides/Mac_OSX/IntegrateAppleCare.htm" />
+    <TocEntry Title="Introduction" Link="/Content/Platform Guides/Mac_OSX/Introduction.htm" />
+    <TocEntry Title="KioskforMac" Link="/Content/Platform Guides/Mac_OSX/KioskforMac.htm" />
+    <TocEntry Title="MacAirPlay" Link="/Content/Platform Guides/Mac_OSX/MacAirPlay.htm" />
+    <TocEntry Title="MacAWApps" Link="/Content/Platform Guides/Mac_OSX/MacAWApps.htm" />
+    <TocEntry Title="MacContentFilter" Link="/Content/Platform Guides/Mac_OSX/MacContentFilter.htm" />
+    <TocEntry Title="MacDwnldAgent" Link="/Content/Platform Guides/Mac_OSX/MacDwnldAgent.htm" />
+    <TocEntry Title="MacManagedDomains" Link="/Content/Platform Guides/Mac_OSX/MacManagedDomains.htm" />
+    <TocEntry Title="MacMobility" Link="/Content/Platform Guides/Mac_OSX/MacMobility.htm" />
+    <TocEntry Title="MacProfile Messages" Link="/Content/Platform Guides/Mac_OSX/MacProfile Messages.htm" />
+    <TocEntry Title="MacProfileAccessibility" Link="/Content/Platform Guides/Mac_OSX/MacProfileAccessibility.htm" />
+    <TocEntry Title="MacProfileCredentials" Link="/Content/Platform Guides/Mac_OSX/MacProfileCredentials.htm" />
+    <TocEntry Title="MacProfileCustomSettings" Link="/Content/Platform Guides/Mac_OSX/MacProfileCustomSettings.htm" />
+    <TocEntry Title="MacProfileDAV" Link="/Content/Platform Guides/Mac_OSX/MacProfileDAV.htm" />
+    <TocEntry Title="MacProfileDirectory" Link="/Content/Platform Guides/Mac_OSX/MacProfileDirectory.htm" />
+    <TocEntry Title="MacProfileDiskEncrypt" Link="/Content/Platform Guides/Mac_OSX/MacProfileDiskEncrypt.htm" />
+    <TocEntry Title="MacProfileDock" Link="/Content/Platform Guides/Mac_OSX/MacProfileDock.htm" />
+    <TocEntry Title="MacProfileEmail" Link="/Content/Platform Guides/Mac_OSX/MacProfileEmail.htm" />
+    <TocEntry Title="MacProfileEnergySaver" Link="/Content/Platform Guides/Mac_OSX/MacProfileEnergySaver.htm" />
+    <TocEntry Title="MacProfileEWS" Link="/Content/Platform Guides/Mac_OSX/MacProfileEWS.htm" />
+    <TocEntry Title="MacProfileFinder" Link="/Content/Platform Guides/Mac_OSX/MacProfileFinder.htm" />
+    <TocEntry Title="MacProfileFirewall" Link="/Content/Platform Guides/Mac_OSX/MacProfileFirewall.htm" />
+    <TocEntry Title="MacProfileFirmware" Link="/Content/Platform Guides/Mac_OSX/MacProfileFirmware.htm" />
+    <TocEntry Title="MacProfileGlobalProxy" Link="/Content/Platform Guides/Mac_OSX/MacProfileGlobalProxy.htm" />
+    <TocEntry Title="MacProfileLDAP" Link="/Content/Platform Guides/Mac_OSX/MacProfileLDAP.htm" />
+    <TocEntry Title="MacProfileLoginItems" Link="/Content/Platform Guides/Mac_OSX/MacProfileLoginItems.htm" />
+    <TocEntry Title="MacProfileLoginWindow" Link="/Content/Platform Guides/Mac_OSX/MacProfileLoginWindow.htm" />
+    <TocEntry Title="MacProfileParentalControl" Link="/Content/Platform Guides/Mac_OSX/MacProfileParentalControl.htm" />
+    <TocEntry Title="MacProfilePasscode" Link="/Content/Platform Guides/Mac_OSX/MacProfilePasscode.htm" />
+    <TocEntry Title="MacProfilePrinting" Link="/Content/Platform Guides/Mac_OSX/MacProfilePrinting.htm" />
+    <TocEntry Title="MacProfileRestrictions" Link="/Content/Platform Guides/Mac_OSX/MacProfileRestrictions.htm" />
+    <TocEntry Title="MacProfileSecPrivacy" Link="/Content/Platform Guides/Mac_OSX/MacProfileSecPrivacy.htm" />
+    <TocEntry Title="MacProfileSoftUpdate" Link="/Content/Platform Guides/Mac_OSX/MacProfileSoftUpdate.htm" />
+    <TocEntry Title="MacProfileTimeMachine" Link="/Content/Platform Guides/Mac_OSX/MacProfileTimeMachine.htm" />
+    <TocEntry Title="MacProfileVMFusion" Link="/Content/Platform Guides/Mac_OSX/MacProfileVMFusion.htm" />
+    <TocEntry Title="MacProfileVPN" Link="/Content/Platform Guides/Mac_OSX/MacProfileVPN.htm" />
+    <TocEntry Title="MacProfileVPNOnDemand" Link="/Content/Platform Guides/Mac_OSX/MacProfileVPNOnDemand.htm" />
+    <TocEntry Title="MacProfileWebClips" Link="/Content/Platform Guides/Mac_OSX/MacProfileWebClips.htm" />
+    <TocEntry Title="MacProfileWiFi" Link="/Content/Platform Guides/Mac_OSX/MacProfileWiFi.htm" />
+    <TocEntry Title="Manage_Devices" Link="/Content/Platform Guides/Mac_OSX/Manage_Devices.htm" />
+    <TocEntry Title="ManagingMACDevDetails" Link="/Content/Platform Guides/Mac_OSX/ManagingMACDevDetails.htm" />
+    <TocEntry Title="ManagingMACHub" Link="/Content/Platform Guides/Mac_OSX/ManagingMACHub.htm" />
+    <TocEntry Title="ManagingMACListView" Link="/Content/Platform Guides/Mac_OSX/ManagingMACListView.htm" />
+    <TocEntry Title="ManagingMACReports" Link="/Content/Platform Guides/Mac_OSX/ManagingMACReports.htm" />
+    <TocEntry Title="ManagingMACSSP" Link="/Content/Platform Guides/Mac_OSX/ManagingMACSSP.htm" />
+    <TocEntry Title="Profiles" Link="/Content/Platform Guides/Mac_OSX/Profiles.htm" />
+    <TocEntry Title="RequestingAirPlay" Link="/Content/Platform Guides/Mac_OSX/RequestingAirPlay.htm" />
+    <TocEntry Title="UsingXsan" Link="/Content/Platform Guides/Mac_OSX/UsingXsan.htm" />
+    <TocEntry Title="AndroidRugged_WhatsNew" Link="/Content/Platform Guides/Rugged/Android/AndroidRugged_WhatsNew.htm" />
+    <TocEntry Title="Android_Profiles" Link="/Content/Platform Guides/Rugged/Android/Android_Profiles.htm" />
+    <TocEntry Title="Appendix_OSUpgrade" Link="/Content/Platform Guides/Rugged/Android/Appendix_OSUpgrade.htm" />
+    <TocEntry Title="Appendix_RunIntent" Link="/Content/Platform Guides/Rugged/Android/Appendix_RunIntent.htm" />
+    <TocEntry Title="Intro_AndroidRugged" Link="/Content/Platform Guides/Rugged/Android/Intro_AndroidRugged.htm" />
+    <TocEntry Title="_Revisions_RuggedAndroid" Link="/Content/Platform Guides/Rugged/Android/_Revisions_RuggedAndroid.htm" />
+    <TocEntry Title="Appendix_AWAgentUpgrade" Link="/Content/Platform Guides/Rugged/Prod_Prov/Appendix_AWAgentUpgrade.htm" />
+    <TocEntry Title="Appendix_CustAttrib" Link="/Content/Platform Guides/Rugged/Prod_Prov/Appendix_CustAttrib.htm" />
+    <TocEntry Title="Appendix_PullRelay_Install" Link="/Content/Platform Guides/Rugged/Prod_Prov/Appendix_PullRelay_Install.htm" />
+    <TocEntry Title="Appendix_RemTunServInstall" Link="/Content/Platform Guides/Rugged/Prod_Prov/Appendix_RemTunServInstall.htm" />
+    <TocEntry Title="Appendix_XML" Link="/Content/Platform Guides/Rugged/Prod_Prov/Appendix_XML.htm" />
+    <TocEntry Title="Applications" Link="/Content/Platform Guides/Rugged/Prod_Prov/Applications.htm" />
+    <TocEntry Title="Before_Prod" Link="/Content/Platform Guides/Rugged/Prod_Prov/Before_Prod.htm" />
+    <TocEntry Title="Conditions" Link="/Content/Platform Guides/Rugged/Prod_Prov/Conditions.htm" />
+    <TocEntry Title="Editing_Profiles" Link="/Content/Platform Guides/Rugged/Prod_Prov/Editing_Profiles.htm" />
+    <TocEntry Title="EnterpriseReset" Link="/Content/Platform Guides/Rugged/Prod_Prov/EnterpriseReset.htm" />
+    <TocEntry Title="FilesActions" Link="/Content/Platform Guides/Rugged/Prod_Prov/FilesActions.htm" />
+    <TocEntry Title="Introduction" Link="/Content/Platform Guides/Rugged/Prod_Prov/Introduction.htm" />
+    <TocEntry Title="Managing_Prod_Prov" Link="/Content/Platform Guides/Rugged/Prod_Prov/Managing_Prod_Prov.htm" />
+    <TocEntry Title="Products" Link="/Content/Platform Guides/Rugged/Prod_Prov/Products.htm" />
+    <TocEntry Title="ProductSets" Link="/Content/Platform Guides/Rugged/Prod_Prov/ProductSets.htm" />
+    <TocEntry Title="Prod_Dash" Link="/Content/Platform Guides/Rugged/Prod_Prov/Prod_Dash.htm" />
+    <TocEntry Title="Prod_DetailsView" Link="/Content/Platform Guides/Rugged/Prod_Prov/Prod_DetailsView.htm" />
+    <TocEntry Title="Prod_ListView" Link="/Content/Platform Guides/Rugged/Prod_Prov/Prod_ListView.htm" />
+    <TocEntry Title="Profiles_ProdProv" Link="/Content/Platform Guides/Rugged/Prod_Prov/Profiles_ProdProv.htm" />
+    <TocEntry Title="Profile_CustomAttribute" Link="/Content/Platform Guides/Rugged/Prod_Prov/Profile_CustomAttribute.htm" />
+    <TocEntry Title="Profile_WiFi" Link="/Content/Platform Guides/Rugged/Prod_Prov/Profile_WiFi.htm" />
+    <TocEntry Title="Pushing_Products" Link="/Content/Platform Guides/Rugged/Prod_Prov/Pushing_Products.htm" />
+    <TocEntry Title="Relay Servers" Link="/Content/Platform Guides/Rugged/Prod_Prov/Relay Servers.htm" />
+    <TocEntry Title="RS_Configuring" Link="/Content/Platform Guides/Rugged/Prod_Prov/RS_Configuring.htm" />
+    <TocEntry Title="RS_Import_Bulk" Link="/Content/Platform Guides/Rugged/Prod_Prov/RS_Import_Bulk.htm" />
+    <TocEntry Title="RS_Remote_View" Link="/Content/Platform Guides/Rugged/Prod_Prov/RS_Remote_View.htm" />
+    <TocEntry Title="Staging_Adv" Link="/Content/Platform Guides/Rugged/Prod_Prov/Staging_Adv.htm" />
+    <TocEntry Title="Staging_Barcode" Link="/Content/Platform Guides/Rugged/Prod_Prov/Staging_Barcode.htm" />
+    <TocEntry Title="Staging_Config" Link="/Content/Platform Guides/Rugged/Prod_Prov/Staging_Config.htm" />
+    <TocEntry Title="Staging_OnDmd" Link="/Content/Platform Guides/Rugged/Prod_Prov/Staging_OnDmd.htm" />
+    <TocEntry Title="Staging_Overview" Link="/Content/Platform Guides/Rugged/Prod_Prov/Staging_Overview.htm" />
+    <TocEntry Title="Staging_Sideload" Link="/Content/Platform Guides/Rugged/Prod_Prov/Staging_Sideload.htm" />
+    <TocEntry Title="Using Remote Management" Link="/Content/Platform Guides/Rugged/Prod_Prov/Using Remote Management.htm" />
+    <TocEntry Title="!QNX_WhatsNew" Link="/Content/Platform Guides/Rugged/QNX/!QNX_WhatsNew.htm" />
+    <TocEntry Title="!Revisions_QNX" Link="/Content/Platform Guides/Rugged/QNX/!Revisions_QNX.htm" />
+    <TocEntry Title="Appendix_AgentUpgrade" Link="/Content/Platform Guides/Rugged/QNX/Appendix_AgentUpgrade.htm" />
+    <TocEntry Title="Device_Profiles" Link="/Content/Platform Guides/Rugged/QNX/Device_Profiles.htm" />
+    <TocEntry Title="Intro_QNX" Link="/Content/Platform Guides/Rugged/QNX/Intro_QNX.htm" />
+    <TocEntry Title="Manage_QNX" Link="/Content/Platform Guides/Rugged/QNX/Manage_QNX.htm" />
+    <TocEntry Title="QNX_Agent" Link="/Content/Platform Guides/Rugged/QNX/QNX_Agent.htm" />
+    <TocEntry Title="UseDevDetails" Link="/Content/Platform Guides/Rugged/QNX/UseDevDetails.htm" />
+    <TocEntry Title="UseDevListView" Link="/Content/Platform Guides/Rugged/QNX/UseDevListView.htm" />
+    <TocEntry Title="UseHub" Link="/Content/Platform Guides/Rugged/QNX/UseHub.htm" />
+    <TocEntry Title="UseReports" Link="/Content/Platform Guides/Rugged/QNX/UseReports.htm" />
+    <TocEntry Title="UseSSP" Link="/Content/Platform Guides/Rugged/QNX/UseSSP.htm" />
+    <TocEntry Title="xx_AWTrigger_Appendix" Link="/Content/Platform Guides/Rugged/QNX/xx_AWTrigger_Appendix.htm" />
+    <TocEntry Title="!Revisions_WinMo" Link="/Content/Platform Guides/Rugged/WinMo/!Revisions_WinMo.htm" />
+    <TocEntry Title="!WinMo_WhatsNew" Link="/Content/Platform Guides/Rugged/WinMo/!WinMo_WhatsNew.htm" />
+    <TocEntry Title="Appendix_CabCreate" Link="/Content/Platform Guides/Rugged/WinMo/Appendix_CabCreate.htm" />
+    <TocEntry Title="Appendix_CAMigrate" Link="/Content/Platform Guides/Rugged/WinMo/Appendix_CAMigrate.htm" />
+    <TocEntry Title="Appendix_WinMo_OSUpgrade" Link="/Content/Platform Guides/Rugged/WinMo/Appendix_WinMo_OSUpgrade.htm" />
+    <TocEntry Title="Apx_AWScript_Reference" Link="/Content/Platform Guides/Rugged/WinMo/Apx_AWScript_Reference.htm" />
+    <TocEntry Title="Apx_Over_Air_Migration" Link="/Content/Platform Guides/Rugged/WinMo/Apx_Over_Air_Migration.htm" />
+    <TocEntry Title="AW_Apps" Link="/Content/Platform Guides/Rugged/WinMo/AW_Apps.htm" />
+    <TocEntry Title="AW_WinMo_Agent" Link="/Content/Platform Guides/Rugged/WinMo/AW_WinMo_Agent.htm" />
+    <TocEntry Title="Before_WinMO" Link="/Content/Platform Guides/Rugged/WinMo/Before_WinMO.htm" />
+    <TocEntry Title="Enroll_Scan" Link="/Content/Platform Guides/Rugged/WinMo/Enroll_Scan.htm" />
+    <TocEntry Title="Enroll_Side" Link="/Content/Platform Guides/Rugged/WinMo/Enroll_Side.htm" />
+    <TocEntry Title="Enroll_Unenroll" Link="/Content/Platform Guides/Rugged/WinMo/Enroll_Unenroll.htm" />
+    <TocEntry Title="Enroll_Web" Link="/Content/Platform Guides/Rugged/WinMo/Enroll_Web.htm" />
+    <TocEntry Title="Enroll_WinMo" Link="/Content/Platform Guides/Rugged/WinMo/Enroll_WinMo.htm" />
+    <TocEntry Title="Intro_WinMO" Link="/Content/Platform Guides/Rugged/WinMo/Intro_WinMO.htm" />
+    <TocEntry Title="Manage_WinMo" Link="/Content/Platform Guides/Rugged/WinMo/Manage_WinMo.htm" />
+    <TocEntry Title="Profile" Link="/Content/Platform Guides/Rugged/WinMo/Profile.htm" />
+    <TocEntry Title="Profile_Credentials" Link="/Content/Platform Guides/Rugged/WinMo/Profile_Credentials.htm" />
+    <TocEntry Title="Profile_Exchange" Link="/Content/Platform Guides/Rugged/WinMo/Profile_Exchange.htm" />
+    <TocEntry Title="Profile_Launcher" Link="/Content/Platform Guides/Rugged/WinMo/Profile_Launcher.htm" />
+    <TocEntry Title="Profile_Passcode" Link="/Content/Platform Guides/Rugged/WinMo/Profile_Passcode.htm" />
+    <TocEntry Title="Profile_Proxy" Link="/Content/Platform Guides/Rugged/WinMo/Profile_Proxy.htm" />
+    <TocEntry Title="Profile_Restrictions" Link="/Content/Platform Guides/Rugged/WinMo/Profile_Restrictions.htm" />
+    <TocEntry Title="Profile_Shortcuts" Link="/Content/Platform Guides/Rugged/WinMo/Profile_Shortcuts.htm" />
+    <TocEntry Title="Profile_TimeSync" Link="/Content/Platform Guides/Rugged/WinMo/Profile_TimeSync.htm" />
+    <TocEntry Title="Profile_TimeZones" Link="/Content/Platform Guides/Rugged/WinMo/Profile_TimeZones.htm" />
+    <TocEntry Title="Profile_VPN" Link="/Content/Platform Guides/Rugged/WinMo/Profile_VPN.htm" />
+    <TocEntry Title="Profile_WiFi" Link="/Content/Platform Guides/Rugged/WinMo/Profile_WiFi.htm" />
+    <TocEntry Title="Profile_WiFiFusion" Link="/Content/Platform Guides/Rugged/WinMo/Profile_WiFiFusion.htm" />
+    <TocEntry Title="UseDevDetails" Link="/Content/Platform Guides/Rugged/WinMo/UseDevDetails.htm" />
+    <TocEntry Title="UseDevListView" Link="/Content/Platform Guides/Rugged/WinMo/UseDevListView.htm" />
+    <TocEntry Title="UseHub" Link="/Content/Platform Guides/Rugged/WinMo/UseHub.htm" />
+    <TocEntry Title="UseReports" Link="/Content/Platform Guides/Rugged/WinMo/UseReports.htm" />
+    <TocEntry Title="UseSSP" Link="/Content/Platform Guides/Rugged/WinMo/UseSSP.htm" />
+    <TocEntry Title="xx_Appendix_DeviceLogging" Link="/Content/Platform Guides/Rugged/WinMo/xx_Appendix_DeviceLogging.htm" />
+    <TocEntry Title="!Revisions_Symbian" Link="/Content/Platform Guides/Symbian/!Revisions_Symbian.htm" />
+    <TocEntry Title="AWAgent" Link="/Content/Platform Guides/Symbian/AWAgent.htm" />
+    <TocEntry Title="Before_You_Begin" Link="/Content/Platform Guides/Symbian/Before_You_Begin.htm" />
+    <TocEntry Title="Credentials" Link="/Content/Platform Guides/Symbian/Credentials.htm" />
+    <TocEntry Title="Enroll Symbian" Link="/Content/Platform Guides/Symbian/Enroll Symbian.htm" />
+    <TocEntry Title="Enrolling" Link="/Content/Platform Guides/Symbian/Enrolling.htm" />
+    <TocEntry Title="Exchange" Link="/Content/Platform Guides/Symbian/Exchange.htm" />
+    <TocEntry Title="Introduction" Link="/Content/Platform Guides/Symbian/Introduction.htm" />
+    <TocEntry Title="Managing Symbian devices" Link="/Content/Platform Guides/Symbian/Managing Symbian devices.htm" />
+    <TocEntry Title="Passcode" Link="/Content/Platform Guides/Symbian/Passcode.htm" />
+    <TocEntry Title="Prereq" Link="/Content/Platform Guides/Symbian/Prereq.htm" />
+    <TocEntry Title="Profiles" Link="/Content/Platform Guides/Symbian/Profiles.htm" />
+    <TocEntry Title="Things To Know" Link="/Content/Platform Guides/Symbian/Things To Know.htm" />
+    <TocEntry Title="UseDevDetails" Link="/Content/Platform Guides/Symbian/UseDevDetails.htm" />
+    <TocEntry Title="UseDevList" Link="/Content/Platform Guides/Symbian/UseDevList.htm" />
+    <TocEntry Title="UseHub" Link="/Content/Platform Guides/Symbian/UseHub.htm" />
+    <TocEntry Title="UseReports" Link="/Content/Platform Guides/Symbian/UseReports.htm" />
+    <TocEntry Title="UseSSP" Link="/Content/Platform Guides/Symbian/UseSSP.htm" />
+    <TocEntry Title="VPN" Link="/Content/Platform Guides/Symbian/VPN.htm" />
+    <TocEntry Title="WiFi" Link="/Content/Platform Guides/Symbian/WiFi.htm" />
+    <TocEntry Title="!Revisions_Tizen" Link="/Content/Platform Guides/Tizen/!Revisions_Tizen.htm" />
+    <TocEntry Title="!Whats New Tizen" Link="/Content/Platform Guides/Tizen/!Whats New Tizen.htm" />
+    <TocEntry Title="Before_You_Begin" Link="/Content/Platform Guides/Tizen/Before_You_Begin.htm" />
+    <TocEntry Title="DeviceDetails" Link="/Content/Platform Guides/Tizen/DeviceDetails.htm" />
+    <TocEntry Title="Enroll_Agent" Link="/Content/Platform Guides/Tizen/Enroll_Agent.htm" />
+    <TocEntry Title="Enroll_Tizen" Link="/Content/Platform Guides/Tizen/Enroll_Tizen.htm" />
+    <TocEntry Title="Hub" Link="/Content/Platform Guides/Tizen/Hub.htm" />
+    <TocEntry Title="Introduction" Link="/Content/Platform Guides/Tizen/Introduction.htm" />
+    <TocEntry Title="ListViewTizen" Link="/Content/Platform Guides/Tizen/ListViewTizen.htm" />
+    <TocEntry Title="Manage_Tizen" Link="/Content/Platform Guides/Tizen/Manage_Tizen.htm" />
+    <TocEntry Title="ProfileLockScreen" Link="/Content/Platform Guides/Tizen/ProfileLockScreen.htm" />
+    <TocEntry Title="ProfilePasscode" Link="/Content/Platform Guides/Tizen/ProfilePasscode.htm" />
+    <TocEntry Title="ProfileWiFi" Link="/Content/Platform Guides/Tizen/ProfileWiFi.htm" />
+    <TocEntry Title="Reports" Link="/Content/Platform Guides/Tizen/Reports.htm" />
+    <TocEntry Title="Sideload" Link="/Content/Platform Guides/Tizen/Sideload.htm" />
+    <TocEntry Title="SSP" Link="/Content/Platform Guides/Tizen/SSP.htm" />
+    <TocEntry Title="Tizen_Profiles" Link="/Content/Platform Guides/Tizen/Tizen_Profiles.htm" />
+    <TocEntry Title="!Revisions_Win8RT" Link="/Content/Platform Guides/WinDesktop/!Revisions_Win8RT.htm" />
+    <TocEntry Title="!WhatsNew" Link="/Content/Platform Guides/WinDesktop/!WhatsNew.htm" />
+    <TocEntry Title="AutoDiscover_Win8RT" Link="/Content/Platform Guides/WinDesktop/AutoDiscover_Win8RT.htm" />
+    <TocEntry Title="AW_Apps" Link="/Content/Platform Guides/WinDesktop/AW_Apps.htm" />
+    <TocEntry Title="AW_Apps_Browser" Link="/Content/Platform Guides/WinDesktop/AW_Apps_Browser.htm" />
+    <TocEntry Title="AW_Apps_MDMAgent" Link="/Content/Platform Guides/WinDesktop/AW_Apps_MDMAgent.htm" />
+    <TocEntry Title="AW_Apps_SCL" Link="/Content/Platform Guides/WinDesktop/AW_Apps_SCL.htm" />
+    <TocEntry Title="BYB" Link="/Content/Platform Guides/WinDesktop/BYB.htm" />
+    <TocEntry Title="Enroll_CloudDomain" Link="/Content/Platform Guides/WinDesktop/Enroll_CloudDomain.htm" />
+    <TocEntry Title="Enroll_EOBO" Link="/Content/Platform Guides/WinDesktop/Enroll_EOBO.htm" />
+    <TocEntry Title="Enroll_ProtectAgent" Link="/Content/Platform Guides/WinDesktop/Enroll_ProtectAgent.htm" />
+    <TocEntry Title="Enroll_Win10" Link="/Content/Platform Guides/WinDesktop/Enroll_Win10.htm" />
+    <TocEntry Title="Enroll_WinMDM" Link="/Content/Platform Guides/WinDesktop/Enroll_WinMDM.htm" />
+    <TocEntry Title="Enroll_Workplace" Link="/Content/Platform Guides/WinDesktop/Enroll_Workplace.htm" />
+    <TocEntry Title="Intro_WinMDM" Link="/Content/Platform Guides/WinDesktop/Intro_WinMDM.htm" />
+    <TocEntry Title="Manage_Devices" Link="/Content/Platform Guides/WinDesktop/Manage_Devices.htm" />
+    <TocEntry Title="Profile" Link="/Content/Platform Guides/WinDesktop/Profile.htm" />
+    <TocEntry Title="Profile_AntiVirus" Link="/Content/Platform Guides/WinDesktop/Profile_AntiVirus.htm" />
+    <TocEntry Title="Profile_AssignedAccess" Link="/Content/Platform Guides/WinDesktop/Profile_AssignedAccess.htm" />
+    <TocEntry Title="Profile_Credentials" Link="/Content/Platform Guides/WinDesktop/Profile_Credentials.htm" />
+    <TocEntry Title="Profile_EAS_AWI" Link="/Content/Platform Guides/WinDesktop/Profile_EAS_AWI.htm" />
+    <TocEntry Title="Profile_EAS_NAtive" Link="/Content/Platform Guides/WinDesktop/Profile_EAS_NAtive.htm" />
+    <TocEntry Title="Profile_EDP" Link="/Content/Platform Guides/WinDesktop/Profile_EDP.htm" />
+    <TocEntry Title="Profile_Encryp" Link="/Content/Platform Guides/WinDesktop/Profile_Encryp.htm" />
+    <TocEntry Title="Profile_Firewall" Link="/Content/Platform Guides/WinDesktop/Profile_Firewall.htm" />
+    <TocEntry Title="Profile_Passport" Link="/Content/Platform Guides/WinDesktop/Profile_Passport.htm" />
+    <TocEntry Title="Profile_Password" Link="/Content/Platform Guides/WinDesktop/Profile_Password.htm" />
+    <TocEntry Title="Profile_Restrictions" Link="/Content/Platform Guides/WinDesktop/Profile_Restrictions.htm" />
+    <TocEntry Title="Profile_SCEP" Link="/Content/Platform Guides/WinDesktop/Profile_SCEP.htm" />
+    <TocEntry Title="Profile_VPN" Link="/Content/Platform Guides/WinDesktop/Profile_VPN.htm" />
+    <TocEntry Title="Profile_WAU" Link="/Content/Platform Guides/WinDesktop/Profile_WAU.htm" />
+    <TocEntry Title="Profile_Webclips" Link="/Content/Platform Guides/WinDesktop/Profile_Webclips.htm" />
+    <TocEntry Title="Profile_WiFi" Link="/Content/Platform Guides/WinDesktop/Profile_WiFi.htm" />
+    <TocEntry Title="UseDevDetails" Link="/Content/Platform Guides/WinDesktop/UseDevDetails.htm" />
+    <TocEntry Title="UseDevListView" Link="/Content/Platform Guides/WinDesktop/UseDevListView.htm" />
+    <TocEntry Title="UseHub" Link="/Content/Platform Guides/WinDesktop/UseHub.htm" />
+    <TocEntry Title="UseReports" Link="/Content/Platform Guides/WinDesktop/UseReports.htm" />
+    <TocEntry Title="UseSSP" Link="/Content/Platform Guides/WinDesktop/UseSSP.htm" />
+    <TocEntry Title="Win8RT_FeaturesMatrix" Link="/Content/Platform Guides/WinDesktop/Win8RT_FeaturesMatrix.htm" />
+    <TocEntry Title="!Revisions_Win32" Link="/Content/Platform Guides/Windows 7/!Revisions_Win32.htm" />
+    <TocEntry Title="!Win32_WhatsNew" Link="/Content/Platform Guides/Windows 7/!Win32_WhatsNew.htm" />
+    <TocEntry Title="AirWatch_Apps" Link="/Content/Platform Guides/Windows 7/AirWatch_Apps.htm" />
+    <TocEntry Title="AW_Agent_32" Link="/Content/Platform Guides/Windows 7/AW_Agent_32.htm" />
+    <TocEntry Title="AW_SCL_Snip" Link="/Content/Platform Guides/Windows 7/AW_SCL_Snip.htm" />
+    <TocEntry Title="Before_Win32" Link="/Content/Platform Guides/Windows 7/Before_Win32.htm" />
+    <TocEntry Title="Enroll_AdvMethod" Link="/Content/Platform Guides/Windows 7/Enroll_AdvMethod.htm" />
+    <TocEntry Title="Enroll_Agent" Link="/Content/Platform Guides/Windows 7/Enroll_Agent.htm" />
+    <TocEntry Title="Enroll_Proxy" Link="/Content/Platform Guides/Windows 7/Enroll_Proxy.htm" />
+    <TocEntry Title="Enroll_Side" Link="/Content/Platform Guides/Windows 7/Enroll_Side.htm" />
+    <TocEntry Title="Enroll_Silent" Link="/Content/Platform Guides/Windows 7/Enroll_Silent.htm" />
+    <TocEntry Title="Enroll_Win32" Link="/Content/Platform Guides/Windows 7/Enroll_Win32.htm" />
+    <TocEntry Title="Intro_Win32" Link="/Content/Platform Guides/Windows 7/Intro_Win32.htm" />
+    <TocEntry Title="Manage_Win32" Link="/Content/Platform Guides/Windows 7/Manage_Win32.htm" />
+    <TocEntry Title="Profile" Link="/Content/Platform Guides/Windows 7/Profile.htm" />
+    <TocEntry Title="Profile_AntiVirus" Link="/Content/Platform Guides/Windows 7/Profile_AntiVirus.htm" />
+    <TocEntry Title="Profile_Credentials" Link="/Content/Platform Guides/Windows 7/Profile_Credentials.htm" />
+    <TocEntry Title="Profile_Encryption" Link="/Content/Platform Guides/Windows 7/Profile_Encryption.htm" />
+    <TocEntry Title="Profile_Exchange" Link="/Content/Platform Guides/Windows 7/Profile_Exchange.htm" />
+    <TocEntry Title="Profile_Firewall" Link="/Content/Platform Guides/Windows 7/Profile_Firewall.htm" />
+    <TocEntry Title="Profile_Passcode" Link="/Content/Platform Guides/Windows 7/Profile_Passcode.htm" />
+    <TocEntry Title="Profile_Shortcuts" Link="/Content/Platform Guides/Windows 7/Profile_Shortcuts.htm" />
+    <TocEntry Title="Profile_VPN" Link="/Content/Platform Guides/Windows 7/Profile_VPN.htm" />
+    <TocEntry Title="Profile_WAU" Link="/Content/Platform Guides/Windows 7/Profile_WAU.htm" />
+    <TocEntry Title="Profile_WiFi" Link="/Content/Platform Guides/Windows 7/Profile_WiFi.htm" />
+    <TocEntry Title="UseDevDetails" Link="/Content/Platform Guides/Windows 7/UseDevDetails.htm" />
+    <TocEntry Title="UseDevListView" Link="/Content/Platform Guides/Windows 7/UseDevListView.htm" />
+    <TocEntry Title="UseHub" Link="/Content/Platform Guides/Windows 7/UseHub.htm" />
+    <TocEntry Title="UseReports" Link="/Content/Platform Guides/Windows 7/UseReports.htm" />
+    <TocEntry Title="UseSSP" Link="/Content/Platform Guides/Windows 7/UseSSP.htm" />
+    <TocEntry Title="!Revisions_WinPho8" Link="/Content/Platform Guides/WinPhone/!Revisions_WinPho8.htm" />
+    <TocEntry Title="!WhatsNew" Link="/Content/Platform Guides/WinPhone/!WhatsNew.htm" />
+    <TocEntry Title="AWBrowser_Snip" Link="/Content/Platform Guides/WinPhone/AWBrowser_Snip.htm" />
+    <TocEntry Title="AW_Apps" Link="/Content/Platform Guides/WinPhone/AW_Apps.htm" />
+    <TocEntry Title="AW_CL_WPho" Link="/Content/Platform Guides/WinPhone/AW_CL_WPho.htm" />
+    <TocEntry Title="AW_WinPho8_Agent" Link="/Content/Platform Guides/WinPhone/AW_WinPho8_Agent.htm" />
+    <TocEntry Title="Before_WinPho8" Link="/Content/Platform Guides/WinPhone/Before_WinPho8.htm" />
+    <TocEntry Title="Enroll_Agent" Link="/Content/Platform Guides/WinPhone/Enroll_Agent.htm" />
+    <TocEntry Title="Enroll_CompanyHub" Link="/Content/Platform Guides/WinPhone/Enroll_CompanyHub.htm" />
+    <TocEntry Title="Enroll_DMClient" Link="/Content/Platform Guides/WinPhone/Enroll_DMClient.htm" />
+    <TocEntry Title="Enroll_Methods" Link="/Content/Platform Guides/WinPhone/Enroll_Methods.htm" />
+    <TocEntry Title="Enroll_WADS" Link="/Content/Platform Guides/WinPhone/Enroll_WADS.htm" />
+    <TocEntry Title="Enroll_Web" Link="/Content/Platform Guides/WinPhone/Enroll_Web.htm" />
+    <TocEntry Title="Enroll_WinPho8" Link="/Content/Platform Guides/WinPhone/Enroll_WinPho8.htm" />
+    <TocEntry Title="FeaturesMatrix_WinPho8" Link="/Content/Platform Guides/WinPhone/FeaturesMatrix_WinPho8.htm" />
+    <TocEntry Title="Intro_WinPho8" Link="/Content/Platform Guides/WinPhone/Intro_WinPho8.htm" />
+    <TocEntry Title="Manage_WinPho8" Link="/Content/Platform Guides/WinPhone/Manage_WinPho8.htm" />
+    <TocEntry Title="Profile" Link="/Content/Platform Guides/WinPhone/Profile.htm" />
+    <TocEntry Title="Profile_AppControl" Link="/Content/Platform Guides/WinPhone/Profile_AppControl.htm" />
+    <TocEntry Title="Profile_AssignedAccess" Link="/Content/Platform Guides/WinPhone/Profile_AssignedAccess.htm" />
+    <TocEntry Title="Profile_Credentials" Link="/Content/Platform Guides/WinPhone/Profile_Credentials.htm" />
+    <TocEntry Title="Profile_Email" Link="/Content/Platform Guides/WinPhone/Profile_Email.htm" />
+    <TocEntry Title="Profile_Exchange" Link="/Content/Platform Guides/WinPhone/Profile_Exchange.htm" />
+    <TocEntry Title="Profile_ExchangeAWI" Link="/Content/Platform Guides/WinPhone/Profile_ExchangeAWI.htm" />
+    <TocEntry Title="Profile_Passcode" Link="/Content/Platform Guides/WinPhone/Profile_Passcode.htm" />
+    <TocEntry Title="Profile_Restrictions" Link="/Content/Platform Guides/WinPhone/Profile_Restrictions.htm" />
+    <TocEntry Title="Profile_SCEP" Link="/Content/Platform Guides/WinPhone/Profile_SCEP.htm" />
+    <TocEntry Title="Profile_VPN" Link="/Content/Platform Guides/WinPhone/Profile_VPN.htm" />
+    <TocEntry Title="Profile_WiFi" Link="/Content/Platform Guides/WinPhone/Profile_WiFi.htm" />
+    <TocEntry Title="SSO_Snip" Link="/Content/Platform Guides/WinPhone/SSO_Snip.htm" />
+    <TocEntry Title="UseDevDetails" Link="/Content/Platform Guides/WinPhone/UseDevDetails.htm" />
+    <TocEntry Title="UseDevListView" Link="/Content/Platform Guides/WinPhone/UseDevListView.htm" />
+    <TocEntry Title="UseHub" Link="/Content/Platform Guides/WinPhone/UseHub.htm" />
+    <TocEntry Title="UseReport" Link="/Content/Platform Guides/WinPhone/UseReport.htm" />
+    <TocEntry Title="UseSSP" Link="/Content/Platform Guides/WinPhone/UseSSP.htm" />
+</CatapultToc>

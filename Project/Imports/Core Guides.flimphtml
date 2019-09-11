@@ -1,0 +1,714 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="HTML5 testing"
+  ProjectFolder="C:\Users\townsends\Documents\!Temp Working\!Flare Testing\HTML5 testing\Template Project TEST\"
+  AutoSync="false"
+  SourceFolders="file:///C:/Users/townsends/Documents/!Temp Working/!Flare Testing/unbound from source control 8.1/Content/Core Guides"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2015-09-03T10:11:52.3607044-04:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../unbound from source control 8.1/Content/Core Guides"
+      AbsoluteSource="file:///C:/Users/townsends/Documents/!Temp Working/!Flare Testing/unbound from source control 8.1/Content/Core Guides" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Core Guides/MAM/!Revisions_MAM.htm"
+      TimeStamp="9/3/2015 10:11:05 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/!What's New_MAM.htm"
+      TimeStamp="9/3/2015 10:11:05 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/A4Wrk_Config_Public_Apps.htm"
+      TimeStamp="9/3/2015 10:11:05 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Advanced_App_Management.htm"
+      TimeStamp="9/3/2015 10:11:06 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Analytics.htm"
+      TimeStamp="9/3/2015 10:11:06 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/AppCategories.htm"
+      TimeStamp="9/3/2015 10:11:06 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/AppCat_HorizonWS.htm"
+      TimeStamp="9/3/2015 10:11:06 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Appendix_A_SDKPrfls.htm"
+      TimeStamp="9/3/2015 10:11:06 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Appendix_B__AppCat_woMDM.htm"
+      TimeStamp="9/3/2015 10:11:06 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Appendix_C_App_Cntrl.htm"
+      TimeStamp="9/3/2015 10:11:06 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Appendix_D_App_Behaviors.htm"
+      TimeStamp="9/3/2015 10:11:07 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Appendix_E_Workflow_Replace.htm"
+      TimeStamp="9/3/2015 10:11:07 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Appendix_F_VPP_Staging.htm"
+      TimeStamp="9/3/2015 10:11:07 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Apple_MD_Misc.htm"
+      TimeStamp="9/3/2015 10:11:07 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/App_Groups.htm"
+      TimeStamp="9/3/2015 10:11:07 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/App_Tunnel.htm"
+      TimeStamp="9/3/2015 10:11:07 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/App_Tunnel_Ovrvw.htm"
+      TimeStamp="9/3/2015 10:11:07 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Before_U_Begin.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Branding.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Build_Comp_Policy.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Compliance.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Compromised_Prtctn.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Config_Ext_App_Repository.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Config_Internal_Apps.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Config_MD.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Config_MD_B2B.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Config_Public_Apps.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Config_Rdmptn_Cds.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Content_Filter.htm"
+      TimeStamp="9/3/2015 10:11:08 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Create_App_Groups.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Cstm_MDMApps.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Cstm_Sttings.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Cust_Notifications.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Deleting_Apps.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Dist_Apps_Win8RT.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Dist_Apps_WinPho8.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/DLP.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Enroll_VPP.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Enterprise_AppCat.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Featured_Apps_AppCat.htm"
+      TimeStamp="9/3/2015 10:11:09 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Flex_Dplymnt.htm"
+      TimeStamp="9/3/2015 10:11:10 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Geofencing.htm"
+      TimeStamp="9/3/2015 10:11:10 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/GettingStarted.htm"
+      TimeStamp="9/3/2015 10:11:10 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/GooglePlayInt.htm"
+      TimeStamp="9/3/2015 10:11:10 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Integrated_Auth.htm"
+      TimeStamp="9/3/2015 10:11:10 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Internal_Apps.htm"
+      TimeStamp="9/3/2015 10:11:10 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Introduction.htm"
+      TimeStamp="9/3/2015 10:11:10 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Logging.htm"
+      TimeStamp="9/3/2015 10:11:10 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Manage_Devices.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Manage_Feedback.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Manage_Ratings.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Manage_Versions.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Manage_ViewDev_WebApps.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Managing All Apps.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Ntwrk_Acc_Cntrl.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Offline_Access.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Passcode_Mode.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/ProvProfile_iOS.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Public_Apps.htm"
+      TimeStamp="9/3/2015 10:11:11 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Purchased_Apps.htm"
+      TimeStamp="9/3/2015 10:11:12 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Push_AppCat.htm"
+      TimeStamp="9/3/2015 10:11:12 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Reason_Codes.htm"
+      TimeStamp="9/3/2015 10:11:12 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Revoke_MD.htm"
+      TimeStamp="9/3/2015 10:11:12 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Rstrct_Md_iOS.htm"
+      TimeStamp="9/3/2015 10:11:12 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/SDK_Logs.htm"
+      TimeStamp="9/3/2015 10:11:12 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Sort_View_Apps.htm"
+      TimeStamp="9/3/2015 10:11:12 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/SSO.htm"
+      TimeStamp="9/3/2015 10:11:13 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/TrackApps.htm"
+      TimeStamp="9/3/2015 10:11:13 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Use_AppCat.htm"
+      TimeStamp="9/3/2015 10:11:13 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Use_Details_View.htm"
+      TimeStamp="9/3/2015 10:11:13 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/WebApp_behaviors.htm"
+      TimeStamp="9/3/2015 10:11:13 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/WebApp_configuring_devprof.htm"
+      TimeStamp="9/3/2015 10:11:13 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/WebApp_configuring_tab.htm"
+      TimeStamp="9/3/2015 10:11:13 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/WebApp_supported.htm"
+      TimeStamp="9/3/2015 10:11:13 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Web_Apps.htm"
+      TimeStamp="9/3/2015 10:11:13 AM" />
+    <Url
+      Source="../../Content/Core Guides/MAM/Win10_Internal_Apps.htm"
+      TimeStamp="9/3/2015 10:11:13 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/!Revisions_MCM.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/!What_New.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Accessing Content SCL Sync.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Add_an_Admin_Repository.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Add_User_Repos.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Add_Vers.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Admin_Storage.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Before_You_Begin.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Bulk_Content_Upload.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Configuring_SCL.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Config_Content_Repos.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Config_HTML5.htm"
+      TimeStamp="9/3/2015 10:11:14 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Config_SocCInt.htm"
+      TimeStamp="9/3/2015 10:11:15 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Content_Categories.htm"
+      TimeStamp="9/3/2015 10:11:15 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Content_Exceptions.htm"
+      TimeStamp="9/3/2015 10:11:15 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Content_Management_Dash.htm"
+      TimeStamp="9/3/2015 10:11:15 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Content_Repository_Integration.htm"
+      TimeStamp="9/3/2015 10:11:15 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Con_Man_SetU.htm"
+      TimeStamp="9/3/2015 10:11:15 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Custom URL iOS.htm"
+      TimeStamp="9/3/2015 10:11:15 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Deploying_Content.htm"
+      TimeStamp="9/3/2015 10:11:15 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Dep_Use_SCL_Sync.htm"
+      TimeStamp="9/3/2015 10:11:15 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Det_Store.htm"
+      TimeStamp="9/3/2015 10:11:15 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Enable_Persl_Con.htm"
+      TimeStamp="9/3/2015 10:11:16 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Enable_SCL_Sync.htm"
+      TimeStamp="9/3/2015 10:11:16 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/FileTypes.htm"
+      TimeStamp="9/3/2015 10:11:16 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/File_Storage.htm"
+      TimeStamp="9/3/2015 10:11:17 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/File_Storage_2.htm"
+      TimeStamp="9/3/2015 10:11:18 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/File_Store_RFS.htm"
+      TimeStamp="9/3/2015 10:11:18 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Introduction.htm"
+      TimeStamp="9/3/2015 10:11:19 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/List_View.htm"
+      TimeStamp="9/3/2015 10:11:19 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Managing Content.htm"
+      TimeStamp="9/3/2015 10:11:20 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Man_Admin_Repos.htm"
+      TimeStamp="9/3/2015 10:11:20 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Onboarding.htm"
+      TimeStamp="9/3/2015 10:11:21 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Outlook_PersonalContent _AddIn.htm"
+      TimeStamp="9/3/2015 10:11:21 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Personal_Content.htm"
+      TimeStamp="9/3/2015 10:11:22 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/RFS1.htm"
+      TimeStamp="9/3/2015 10:11:22 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/SCL_Platform_Capabilities.htm"
+      TimeStamp="9/3/2015 10:11:23 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/SSP.htm"
+      TimeStamp="9/3/2015 10:11:23 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Upload_Content_Console.htm"
+      TimeStamp="9/3/2015 10:11:23 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/User Face Features.htm"
+      TimeStamp="9/3/2015 10:11:23 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/User Storage.htm"
+      TimeStamp="9/3/2015 10:11:23 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Using_Act_Men.htm"
+      TimeStamp="9/3/2015 10:11:23 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Using_Con_Dashl.htm"
+      TimeStamp="9/3/2015 10:11:23 AM" />
+    <Url
+      Source="../../Content/Core Guides/MCM/Using_OutLook_addin.htm"
+      TimeStamp="9/3/2015 10:11:24 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/!Revision_MDM.htm"
+      TimeStamp="9/3/2015 10:11:24 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/!What's_New.htm"
+      TimeStamp="9/3/2015 10:11:24 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Add'lEnrollWorkflows.htm"
+      TimeStamp="9/3/2015 10:11:24 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/AddingBasicUserGroups.htm"
+      TimeStamp="9/3/2015 10:11:24 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/AddingCompliancePolicy.htm"
+      TimeStamp="9/3/2015 10:11:24 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/AddingDirectoryUserGrps.htm"
+      TimeStamp="9/3/2015 10:11:24 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/AddingTags.htm"
+      TimeStamp="9/3/2015 10:11:24 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/AdminConsoleGlance.htm"
+      TimeStamp="9/3/2015 10:11:24 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/AppendixA_AddedResources.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ApplyTimeSched.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/AssigningSmartGroups.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/AutoDiscovery.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Before_You_Begin.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/BlackWhiteListing.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ChoosingAuthTypes.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ComparingAdminRoles.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ComparingOGs.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Compliance.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ComplianceListView.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ComplianceOverview.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/CompliancePlatform.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ConfigEnrollOptions.htm"
+      TimeStamp="9/3/2015 10:11:25 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ConfiguringPrivacy.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ConsoleBranding.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/CreatingAdminAccount.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/CreatingAdminRole.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/CreatingDirectoryUsers.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/CreatingGeneralProfile.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/CreatingOGs.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/CreatingSmartGroup.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/CreatingTags.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/CreatingUsers.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/CustEnrollMsgs.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/DefaultCustomRoles.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Defining User Roles.htm"
+      TimeStamp="9/3/2015 10:11:26 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/DefiningTimeSched.htm"
+      TimeStamp="9/3/2015 10:11:27 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/DeviceActions.htm"
+      TimeStamp="9/3/2015 10:11:27 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/DeviceRegistration.htm"
+      TimeStamp="9/3/2015 10:11:27 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/DeviceStaging.htm"
+      TimeStamp="9/3/2015 10:11:27 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/EditingUserGroupsPerms.htm"
+      TimeStamp="9/3/2015 10:11:28 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Enrolling_Devices.htm"
+      TimeStamp="9/3/2015 10:11:28 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/EnrollmentRestrictions.htm"
+      TimeStamp="9/3/2015 10:11:28 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/EnrollProcess.htm"
+      TimeStamp="9/3/2015 10:11:28 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/FilteringTags.htm"
+      TimeStamp="9/3/2015 10:11:28 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/GeneratingAPNs.htm"
+      TimeStamp="9/3/2015 10:11:28 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Geofencing.htm"
+      TimeStamp="9/3/2015 10:11:28 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/GettingStarted.htm"
+      TimeStamp="9/3/2015 10:11:29 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Getting_Started_with_AirWatch.htm"
+      TimeStamp="9/3/2015 10:11:29 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/GlobalSearch.htm"
+      TimeStamp="9/3/2015 10:11:29 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/IntegratingOtherSystems.htm"
+      TimeStamp="9/3/2015 10:11:30 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Introduction.htm"
+      TimeStamp="9/3/2015 10:11:30 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/LoggingIn.htm"
+      TimeStamp="9/3/2015 10:11:30 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ManageAdminAcct.htm"
+      TimeStamp="9/3/2015 10:11:30 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ManagingEditingProfiles.htm"
+      TimeStamp="9/3/2015 10:11:30 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ManagingSmartGroups.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ManagingTags.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ManagingUserGroups.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/ManagingUsers.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Managing_Devices.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Notifications.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Organization_Groups.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/OverviewOG.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Profiles.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/RestrictedActions.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/RoleBasedAccess.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Setting_PIN.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Setting_Up_Your_Environment.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/SmartGroupsTags.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Smart_Groups.htm"
+      TimeStamp="9/3/2015 10:11:31 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/Tags.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/TermsofUse.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/TimeSchedules.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UserAdminAccounts.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UserGroups.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UsersBulk.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UsingAdminPanel.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UsingDevDash.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UsingDevDetails.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UsingDevListView.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UsingHub.htm"
+      TimeStamp="9/3/2015 10:11:32 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UsingMobileConsole.htm"
+      TimeStamp="9/3/2015 10:11:33 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UsingReports.htm"
+      TimeStamp="9/3/2015 10:11:33 AM" />
+    <Url
+      Source="../../Content/Core Guides/MDM/UsingWipeProt.htm"
+      TimeStamp="9/3/2015 10:11:33 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/!Revisions_MEM.htm"
+      TimeStamp="9/3/2015 10:11:33 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/!What's_New_MEM.htm"
+      TimeStamp="9/3/2015 10:11:33 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Appendix A Functionality.htm"
+      TimeStamp="9/3/2015 10:11:33 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Appendix B Recommendations.htm"
+      TimeStamp="9/3/2015 10:11:33 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Before_you_begin.htm"
+      TimeStamp="9/3/2015 10:11:33 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Compliance.htm"
+      TimeStamp="9/3/2015 10:11:33 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Configure_MEM.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Configuring_Wizard.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Create_Comp_Plcy.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Dashboard.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Email_Profiles.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Enable_Certs.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/enrolling in mem.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Google_Model.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Introduction.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/List_View.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Managing Mobile Email.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Migrate.htm"
+      TimeStamp="9/3/2015 10:11:34 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Migrate_GoogleApps.htm"
+      TimeStamp="9/3/2015 10:11:35 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Migrate_MEM_deploy.htm"
+      TimeStamp="9/3/2015 10:11:35 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Migrate_PwrShll.htm"
+      TimeStamp="9/3/2015 10:11:35 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Migrate_SEG.htm"
+      TimeStamp="9/3/2015 10:11:35 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Protecting Email Infrastructure.htm"
+      TimeStamp="9/3/2015 10:11:35 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Prtct_Attch_Hprlnks.htm"
+      TimeStamp="9/3/2015 10:11:35 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/Pwrshll_Model.htm"
+      TimeStamp="9/3/2015 10:11:35 AM" />
+    <Url
+      Source="../../Content/Core Guides/MEM/SEG_Model.htm"
+      TimeStamp="9/3/2015 10:11:36 AM" />
+    <Url
+      Source="../TOCs/Core Guides.fltoc"
+      TimeStamp="9/3/2015 10:11:44 AM" />
+  </GeneratedFiles>
+</HtmlImport>
